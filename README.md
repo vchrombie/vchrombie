@@ -17,6 +17,11 @@ I live on the internet [@vchrombie](https://www.google.co.in/search?q=vchrombie)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#436](https://github.com/chaoss/grimoirelab/issues/436) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+2. 🗣 Commented on [#990](https://github.com/chaoss/grimoirelab-elk/issues/990) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+3. 💪 Opened PR [#990](https://github.com/chaoss/grimoirelab-elk/pull/990) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+4. 🗣 Commented on [#436](https://github.com/chaoss/grimoirelab/issues/436) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+5. 🗣 Commented on [#736](https://github.com/chaoss/grimoirelab-perceval/issues/736) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
 <!--END_SECTION:activity-->
 
 ---
