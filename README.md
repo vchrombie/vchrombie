@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#732](https://github.com/chaoss/grimoirelab-perceval/issues/732) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-2. 💪 Opened PR [#741](https://github.com/chaoss/grimoirelab-perceval/pull/741) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-3. 🗣 Commented on [#1441](https://github.com/python-poetry/poetry/issues/1441) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-4. 🗣 Commented on [#552](https://github.com/chaoss/grimoirelab-sortinghat/issues/552) in [chaoss/grimoirelab-sortinghat](https://github.com/chaoss/grimoirelab-sortinghat)
-5. 🗣 Commented on [#552](https://github.com/chaoss/grimoirelab-sortinghat/issues/552) in [chaoss/grimoirelab-sortinghat](https://github.com/chaoss/grimoirelab-sortinghat)
+1. 💪 Opened PR [#29](https://github.com/chaoss/grimoirelab-perceval-puppet/pull/29) in [chaoss/grimoirelab-perceval-puppet](https://github.com/chaoss/grimoirelab-perceval-puppet)
+2. 💪 Opened PR [#34](https://github.com/chaoss/grimoirelab-perceval-opnfv/pull/34) in [chaoss/grimoirelab-perceval-opnfv](https://github.com/chaoss/grimoirelab-perceval-opnfv)
+3. 💪 Opened PR [#57](https://github.com/chaoss/grimoirelab-perceval-mozilla/pull/57) in [chaoss/grimoirelab-perceval-mozilla](https://github.com/chaoss/grimoirelab-perceval-mozilla)
+4. 💪 Opened PR [#20](https://github.com/Bitergia/grimoirelab-perceval-finos/pull/20) in [Bitergia/grimoirelab-perceval-finos](https://github.com/Bitergia/grimoirelab-perceval-finos)
+5. 💪 Opened PR [#7](https://github.com/chaoss/grimoirelab-perceval-weblate/pull/7) in [chaoss/grimoirelab-perceval-weblate](https://github.com/chaoss/grimoirelab-perceval-weblate)
 <!--END_SECTION:activity-->
 
 <!--
