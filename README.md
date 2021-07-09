@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/vchrombie/gareth/pull/2) in [vchrombie/gareth](https://github.com/vchrombie/gareth)
-2. 🗣 Commented on [#2](https://github.com/vchrombie/gareth/issues/2) in [vchrombie/gareth](https://github.com/vchrombie/gareth)
-3. 💪 Opened PR [#29](https://github.com/chaoss/grimoirelab-perceval-puppet/pull/29) in [chaoss/grimoirelab-perceval-puppet](https://github.com/chaoss/grimoirelab-perceval-puppet)
-4. 💪 Opened PR [#34](https://github.com/chaoss/grimoirelab-perceval-opnfv/pull/34) in [chaoss/grimoirelab-perceval-opnfv](https://github.com/chaoss/grimoirelab-perceval-opnfv)
-5. 💪 Opened PR [#57](https://github.com/chaoss/grimoirelab-perceval-mozilla/pull/57) in [chaoss/grimoirelab-perceval-mozilla](https://github.com/chaoss/grimoirelab-perceval-mozilla)
+1. 🗣 Commented on [#731](https://github.com/chaoss/grimoirelab-perceval/issues/731) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+2. 🎉 Merged PR [#2](https://github.com/vchrombie/gareth/pull/2) in [vchrombie/gareth](https://github.com/vchrombie/gareth)
+3. 🗣 Commented on [#2](https://github.com/vchrombie/gareth/issues/2) in [vchrombie/gareth](https://github.com/vchrombie/gareth)
+4. 💪 Opened PR [#29](https://github.com/chaoss/grimoirelab-perceval-puppet/pull/29) in [chaoss/grimoirelab-perceval-puppet](https://github.com/chaoss/grimoirelab-perceval-puppet)
+5. 💪 Opened PR [#34](https://github.com/chaoss/grimoirelab-perceval-opnfv/pull/34) in [chaoss/grimoirelab-perceval-opnfv](https://github.com/chaoss/grimoirelab-perceval-opnfv)
 <!--END_SECTION:activity-->
 
 <!--
