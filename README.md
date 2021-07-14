@@ -14,10 +14,10 @@ I'm Venu. I love building tools that make boring tasks easy.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#439](https://github.com/chaoss/grimoirelab/issues/439) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-2. 💪 Opened PR [#3](https://github.com/python-poetry/poetry-export-plugin/pull/3) in [python-poetry/poetry-export-plugin](https://github.com/python-poetry/poetry-export-plugin)
-3. 💪 Opened PR [#4283](https://github.com/python-poetry/poetry/pull/4283) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-4. 💪 Opened PR [#437](https://github.com/chaoss/grimoirelab/pull/437) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-5. 🗣 Commented on [#732](https://github.com/chaoss/grimoirelab-perceval/issues/732) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+2. 🗣 Commented on [#439](https://github.com/chaoss/grimoirelab/issues/439) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+3. 💪 Opened PR [#3](https://github.com/python-poetry/poetry-export-plugin/pull/3) in [python-poetry/poetry-export-plugin](https://github.com/python-poetry/poetry-export-plugin)
+4. 💪 Opened PR [#4283](https://github.com/python-poetry/poetry/pull/4283) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+5. 💪 Opened PR [#437](https://github.com/chaoss/grimoirelab/pull/437) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
 <!--END_SECTION:activity-->
 
 <!--
