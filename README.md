@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#439](https://github.com/chaoss/grimoirelab/issues/439) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+1. 💪 Opened PR [#311](https://github.com/TheKevJames/coveralls-python/pull/311) in [TheKevJames/coveralls-python](https://github.com/TheKevJames/coveralls-python)
 2. 🗣 Commented on [#439](https://github.com/chaoss/grimoirelab/issues/439) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-3. 💪 Opened PR [#3](https://github.com/python-poetry/poetry-export-plugin/pull/3) in [python-poetry/poetry-export-plugin](https://github.com/python-poetry/poetry-export-plugin)
-4. 💪 Opened PR [#4283](https://github.com/python-poetry/poetry/pull/4283) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-5. 💪 Opened PR [#437](https://github.com/chaoss/grimoirelab/pull/437) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+3. 🗣 Commented on [#439](https://github.com/chaoss/grimoirelab/issues/439) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+4. 💪 Opened PR [#3](https://github.com/python-poetry/poetry-export-plugin/pull/3) in [python-poetry/poetry-export-plugin](https://github.com/python-poetry/poetry-export-plugin)
+5. 💪 Opened PR [#4283](https://github.com/python-poetry/poetry/pull/4283) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
 <!--END_SECTION:activity-->
 
 <!--
