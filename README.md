@@ -13,10 +13,10 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#731](https://github.com/chaoss/grimoirelab-perceval/issues/731) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-2. 💪 Opened PR [#43](https://github.com/chaoss/grimoirelab-toolkit/pull/43) in [chaoss/grimoirelab-toolkit](https://github.com/chaoss/grimoirelab-toolkit)
-3. 💪 Opened PR [#311](https://github.com/TheKevJames/coveralls-python/pull/311) in [TheKevJames/coveralls-python](https://github.com/TheKevJames/coveralls-python)
-4. 🗣 Commented on [#439](https://github.com/chaoss/grimoirelab/issues/439) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+1. 🗣 Commented on [#736](https://github.com/chaoss/grimoirelab-perceval/issues/736) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+2. 🗣 Commented on [#731](https://github.com/chaoss/grimoirelab-perceval/issues/731) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+3. 💪 Opened PR [#43](https://github.com/chaoss/grimoirelab-toolkit/pull/43) in [chaoss/grimoirelab-toolkit](https://github.com/chaoss/grimoirelab-toolkit)
+4. 💪 Opened PR [#311](https://github.com/TheKevJames/coveralls-python/pull/311) in [TheKevJames/coveralls-python](https://github.com/TheKevJames/coveralls-python)
 5. 🗣 Commented on [#439](https://github.com/chaoss/grimoirelab/issues/439) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
 <!--END_SECTION:activity-->
 
