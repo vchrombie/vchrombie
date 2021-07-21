@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#988](https://github.com/chaoss/grimoirelab-elk/issues/988) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-2. 🗣 Commented on [#736](https://github.com/chaoss/grimoirelab-perceval/issues/736) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-3. 🗣 Commented on [#731](https://github.com/chaoss/grimoirelab-perceval/issues/731) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-4. 💪 Opened PR [#43](https://github.com/chaoss/grimoirelab-toolkit/pull/43) in [chaoss/grimoirelab-toolkit](https://github.com/chaoss/grimoirelab-toolkit)
-5. 💪 Opened PR [#311](https://github.com/TheKevJames/coveralls-python/pull/311) in [TheKevJames/coveralls-python](https://github.com/TheKevJames/coveralls-python)
+1. 🗣 Commented on [#987](https://github.com/chaoss/grimoirelab-elk/issues/987) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+2. 🗣 Commented on [#988](https://github.com/chaoss/grimoirelab-elk/issues/988) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+3. 🗣 Commented on [#736](https://github.com/chaoss/grimoirelab-perceval/issues/736) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+4. 🗣 Commented on [#731](https://github.com/chaoss/grimoirelab-perceval/issues/731) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+5. 💪 Opened PR [#43](https://github.com/chaoss/grimoirelab-toolkit/pull/43) in [chaoss/grimoirelab-toolkit](https://github.com/chaoss/grimoirelab-toolkit)
 <!--END_SECTION:activity-->
 
 <!--
