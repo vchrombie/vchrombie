@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#438](https://github.com/chaoss/grimoirelab/issues/438) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-2. 🎉 Merged PR [#438](https://github.com/chaoss/grimoirelab/pull/438) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-3. 🗣 Commented on [#392](https://github.com/chaoss/grimoirelab/issues/392) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-4. 🗣 Commented on [#429](https://github.com/chaoss/grimoirelab/issues/429) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-5. ❗️ Closed issue [#429](https://github.com/chaoss/grimoirelab/issues/429) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+1. 🗣 Commented on [#508](https://github.com/chaoss/grimoirelab-sirmordred/issues/508) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+2. 🗣 Commented on [#438](https://github.com/chaoss/grimoirelab/issues/438) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+3. 🎉 Merged PR [#438](https://github.com/chaoss/grimoirelab/pull/438) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+4. 🗣 Commented on [#392](https://github.com/chaoss/grimoirelab/issues/392) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+5. 🗣 Commented on [#429](https://github.com/chaoss/grimoirelab/issues/429) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
 <!--END_SECTION:activity-->
 
 <!--
