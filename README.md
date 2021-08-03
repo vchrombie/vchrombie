@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#746](https://github.com/chaoss/grimoirelab-perceval/issues/746) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-2. ❗️ Closed issue [#1](https://github.com/vchrombie/perceval-zulip/issues/1) in [vchrombie/perceval-zulip](https://github.com/vchrombie/perceval-zulip)
-3. 🗣 Commented on [#1](https://github.com/vchrombie/perceval-zulip/issues/1) in [vchrombie/perceval-zulip](https://github.com/vchrombie/perceval-zulip)
-4. 🎉 Merged PR [#508](https://github.com/chaoss/grimoirelab-sirmordred/pull/508) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-5. 🗣 Commented on [#366](https://github.com/chaoss/grimoirelab/issues/366) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+1. ❌ Closed PR [#667](https://github.com/chaoss/grimoirelab-perceval/pull/667) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+2. 🗣 Commented on [#667](https://github.com/chaoss/grimoirelab-perceval/issues/667) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+3. 🗣 Commented on [#746](https://github.com/chaoss/grimoirelab-perceval/issues/746) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+4. ❗️ Closed issue [#1](https://github.com/vchrombie/perceval-zulip/issues/1) in [vchrombie/perceval-zulip](https://github.com/vchrombie/perceval-zulip)
+5. 🗣 Commented on [#1](https://github.com/vchrombie/perceval-zulip/issues/1) in [vchrombie/perceval-zulip](https://github.com/vchrombie/perceval-zulip)
 <!--END_SECTION:activity-->
 
 <!--
