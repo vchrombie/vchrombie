@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#667](https://github.com/chaoss/grimoirelab-perceval/pull/667) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-2. 🗣 Commented on [#667](https://github.com/chaoss/grimoirelab-perceval/issues/667) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-3. 🗣 Commented on [#746](https://github.com/chaoss/grimoirelab-perceval/issues/746) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-4. ❗️ Closed issue [#1](https://github.com/vchrombie/perceval-zulip/issues/1) in [vchrombie/perceval-zulip](https://github.com/vchrombie/perceval-zulip)
-5. 🗣 Commented on [#1](https://github.com/vchrombie/perceval-zulip/issues/1) in [vchrombie/perceval-zulip](https://github.com/vchrombie/perceval-zulip)
+1. ❗️ Closed issue [#664](https://github.com/chaoss/grimoirelab-perceval/issues/664) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+2. 🗣 Commented on [#664](https://github.com/chaoss/grimoirelab-perceval/issues/664) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+3. ❗️ Closed issue [#2](https://github.com/vchrombie/gsoc/issues/2) in [vchrombie/gsoc](https://github.com/vchrombie/gsoc)
+4. 🗣 Commented on [#2](https://github.com/vchrombie/gsoc/issues/2) in [vchrombie/gsoc](https://github.com/vchrombie/gsoc)
+5. ❗️ Closed issue [#630](https://github.com/chaoss/grimoirelab-perceval/issues/630) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
 <!--END_SECTION:activity-->
 
 <!--
