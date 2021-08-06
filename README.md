@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#578](https://github.com/chaoss/grimoirelab-sortinghat/pull/578) in [chaoss/grimoirelab-sortinghat](https://github.com/chaoss/grimoirelab-sortinghat)
-2. 🗣 Commented on [#88](https://github.com/chaoss/grimoirelab-bestiary/issues/88) in [chaoss/grimoirelab-bestiary](https://github.com/chaoss/grimoirelab-bestiary)
-3. ❗️ Opened issue [#1](https://github.com/vchrombie/misc/issues/1) in [vchrombie/misc](https://github.com/vchrombie/misc)
-4. ❗️ Closed issue [#664](https://github.com/chaoss/grimoirelab-perceval/issues/664) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-5. 🗣 Commented on [#664](https://github.com/chaoss/grimoirelab-perceval/issues/664) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+1. 🗣 Commented on [#635](https://github.com/chaoss/grimoirelab-perceval/issues/635) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+2. 💪 Opened PR [#578](https://github.com/chaoss/grimoirelab-sortinghat/pull/578) in [chaoss/grimoirelab-sortinghat](https://github.com/chaoss/grimoirelab-sortinghat)
+3. 🗣 Commented on [#88](https://github.com/chaoss/grimoirelab-bestiary/issues/88) in [chaoss/grimoirelab-bestiary](https://github.com/chaoss/grimoirelab-bestiary)
+4. ❗️ Opened issue [#1](https://github.com/vchrombie/misc/issues/1) in [vchrombie/misc](https://github.com/vchrombie/misc)
+5. ❗️ Closed issue [#664](https://github.com/chaoss/grimoirelab-perceval/issues/664) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
 <!--END_SECTION:activity-->
 
 <!--
