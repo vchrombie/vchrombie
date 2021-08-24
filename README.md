@@ -14,9 +14,9 @@ I'm Venu. I love building tools that make boring tasks easy.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#752](https://github.com/chaoss/grimoirelab-perceval/issues/752) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-2. 🗣 Commented on [#444](https://github.com/chaoss/grimoirelab/issues/444) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-3. 🗣 Commented on [#366](https://github.com/chaoss/grimoirelab/issues/366) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-4. 🗣 Commented on [#444](https://github.com/chaoss/grimoirelab/issues/444) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+2. 🗣 Commented on [#752](https://github.com/chaoss/grimoirelab-perceval/issues/752) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+3. 🗣 Commented on [#444](https://github.com/chaoss/grimoirelab/issues/444) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+4. 🗣 Commented on [#366](https://github.com/chaoss/grimoirelab/issues/366) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
 5. 🗣 Commented on [#444](https://github.com/chaoss/grimoirelab/issues/444) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
 <!--END_SECTION:activity-->
 
