@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/opensearch-project/opensearch-py/issues/53) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
-2. 🗣 Commented on [#52](https://github.com/opensearch-project/opensearch-py/issues/52) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
-3. 🗣 Commented on [#53](https://github.com/opensearch-project/opensearch-py/issues/53) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
-4. 🗣 Commented on [#52](https://github.com/opensearch-project/opensearch-py/issues/52) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
-5. 💪 Opened PR [#53](https://github.com/opensearch-project/opensearch-py/pull/53) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
+1. 💪 Opened PR [#2](https://github.com/vchrombie/misc/pull/2) in [vchrombie/misc](https://github.com/vchrombie/misc)
+2. 🗣 Commented on [#53](https://github.com/opensearch-project/opensearch-py/issues/53) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
+3. 🗣 Commented on [#52](https://github.com/opensearch-project/opensearch-py/issues/52) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
+4. 🗣 Commented on [#53](https://github.com/opensearch-project/opensearch-py/issues/53) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
+5. 🗣 Commented on [#52](https://github.com/opensearch-project/opensearch-py/issues/52) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
 <!--END_SECTION:activity-->
 
 <!--
