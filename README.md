@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/opensearch-project/opensearch-py/issues/54) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
-2. ❗️ Reopened issue [#752](https://github.com/chaoss/grimoirelab-perceval/issues/752) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-3. 🗣 Commented on [#752](https://github.com/chaoss/grimoirelab-perceval/issues/752) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-4. 🗣 Commented on [#752](https://github.com/chaoss/grimoirelab-perceval/issues/752) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-5. ❗️ Closed issue [#342](https://github.com/chaoss/grimoirelab/issues/342) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+1. ❗️ Closed issue [#835](https://github.com/chaoss/grimoirelab-elk/issues/835) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+2. 🗣 Commented on [#835](https://github.com/chaoss/grimoirelab-elk/issues/835) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+3. ❌ Closed PR [#645](https://github.com/chaoss/grimoirelab-perceval/pull/645) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+4. 🗣 Commented on [#645](https://github.com/chaoss/grimoirelab-perceval/issues/645) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+5. 🗣 Commented on [#54](https://github.com/opensearch-project/opensearch-py/issues/54) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
 <!--END_SECTION:activity-->
 
 <!--
