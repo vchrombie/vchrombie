@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#955](https://github.com/chaoss/grimoirelab-elk/pull/955) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-2. ❗️ Closed issue [#954](https://github.com/chaoss/grimoirelab-elk/issues/954) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-3. 🗣 Commented on [#955](https://github.com/chaoss/grimoirelab-elk/issues/955) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-4. ❗️ Closed issue [#842](https://github.com/chaoss/grimoirelab-elk/issues/842) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-5. 🗣 Commented on [#842](https://github.com/chaoss/grimoirelab-elk/issues/842) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+1. ❗️ Opened issue [#4494](https://github.com/python-poetry/poetry/issues/4494) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+2. 🎉 Merged PR [#955](https://github.com/chaoss/grimoirelab-elk/pull/955) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+3. ❗️ Closed issue [#954](https://github.com/chaoss/grimoirelab-elk/issues/954) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+4. 🗣 Commented on [#955](https://github.com/chaoss/grimoirelab-elk/issues/955) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+5. ❗️ Closed issue [#842](https://github.com/chaoss/grimoirelab-elk/issues/842) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
 <!--END_SECTION:activity-->
 
 <!--
