@@ -13,10 +13,10 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#759](https://github.com/chaoss/grimoirelab-perceval/issues/759) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-2. 🗣 Commented on [#367](https://github.com/chaoss/grimoirelab-perceval/issues/367) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-3. 🗣 Commented on [#653](https://github.com/chaoss/grimoirelab-perceval/issues/653) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-4. ❗️ Opened issue [#1](https://github.com/vchrombie/grimoirelab-perceval-zulip/issues/1) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+1. ❗️ Closed issue [#34](https://github.com/amfoss/vidyaratna/issues/34) in [amfoss/vidyaratna](https://github.com/amfoss/vidyaratna)
+2. ❗️ Closed issue [#83](https://github.com/ConnorAtherton/loaders.css/issues/83) in [ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css)
+3. ❗️ Closed issue [#1](https://github.com/vchrombie/misc/issues/1) in [vchrombie/misc](https://github.com/vchrombie/misc)
+4. ❌ Closed PR [#2](https://github.com/vchrombie/misc/pull/2) in [vchrombie/misc](https://github.com/vchrombie/misc)
 5. 🗣 Commented on [#759](https://github.com/chaoss/grimoirelab-perceval/issues/759) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
 <!--END_SECTION:activity-->
 
