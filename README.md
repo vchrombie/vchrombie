@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#756](https://github.com/chaoss/grimoirelab-perceval/issues/756) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-2. ❗️ Closed issue [#34](https://github.com/amfoss/vidyaratna/issues/34) in [amfoss/vidyaratna](https://github.com/amfoss/vidyaratna)
-3. ❗️ Closed issue [#83](https://github.com/ConnorAtherton/loaders.css/issues/83) in [ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css)
-4. ❗️ Closed issue [#1](https://github.com/vchrombie/misc/issues/1) in [vchrombie/misc](https://github.com/vchrombie/misc)
-5. ❌ Closed PR [#2](https://github.com/vchrombie/misc/pull/2) in [vchrombie/misc](https://github.com/vchrombie/misc)
+1. ❗️ Closed issue [#17](https://github.com/vchrombie/gsoc/issues/17) in [vchrombie/gsoc](https://github.com/vchrombie/gsoc)
+2. ❗️ Closed issue [#4](https://github.com/vchrombie/gsoc/issues/4) in [vchrombie/gsoc](https://github.com/vchrombie/gsoc)
+3. 🗣 Commented on [#4](https://github.com/vchrombie/gsoc/issues/4) in [vchrombie/gsoc](https://github.com/vchrombie/gsoc)
+4. ❗️ Closed issue [#6](https://github.com/vchrombie/gsoc/issues/6) in [vchrombie/gsoc](https://github.com/vchrombie/gsoc)
+5. 🗣 Commented on [#6](https://github.com/vchrombie/gsoc/issues/6) in [vchrombie/gsoc](https://github.com/vchrombie/gsoc)
 <!--END_SECTION:activity-->
 
 <!--
