@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/vchrombie/gsoc/issues/17) in [vchrombie/gsoc](https://github.com/vchrombie/gsoc)
-2. ❗️ Closed issue [#4](https://github.com/vchrombie/gsoc/issues/4) in [vchrombie/gsoc](https://github.com/vchrombie/gsoc)
-3. 🗣 Commented on [#4](https://github.com/vchrombie/gsoc/issues/4) in [vchrombie/gsoc](https://github.com/vchrombie/gsoc)
-4. ❗️ Closed issue [#6](https://github.com/vchrombie/gsoc/issues/6) in [vchrombie/gsoc](https://github.com/vchrombie/gsoc)
-5. 🗣 Commented on [#6](https://github.com/vchrombie/gsoc/issues/6) in [vchrombie/gsoc](https://github.com/vchrombie/gsoc)
+1. ❗️ Closed issue [#403](https://github.com/chaoss/grimoirelab/issues/403) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+2. 🗣 Commented on [#403](https://github.com/chaoss/grimoirelab/issues/403) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+3. ❗️ Closed issue [#17](https://github.com/vchrombie/gsoc/issues/17) in [vchrombie/gsoc](https://github.com/vchrombie/gsoc)
+4. ❗️ Closed issue [#4](https://github.com/vchrombie/gsoc/issues/4) in [vchrombie/gsoc](https://github.com/vchrombie/gsoc)
+5. 🗣 Commented on [#4](https://github.com/vchrombie/gsoc/issues/4) in [vchrombie/gsoc](https://github.com/vchrombie/gsoc)
 <!--END_SECTION:activity-->
 
 <!--
