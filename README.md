@@ -16,8 +16,8 @@ I'm Venu. I love building tools that make boring tasks easy.
 1. 🗣 Commented on [#2](https://github.com/vchrombie/peodd/issues/2) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
 2. 🗣 Commented on [#2](https://github.com/vchrombie/peodd/issues/2) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
 3. 🗣 Commented on [#2](https://github.com/vchrombie/peodd/issues/2) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
-4. 🗣 Commented on [#3](https://github.com/python-poetry/poetry-export-plugin/issues/3) in [python-poetry/poetry-export-plugin](https://github.com/python-poetry/poetry-export-plugin)
-5. 🗣 Commented on [#4283](https://github.com/python-poetry/poetry/issues/4283) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+4. 🗣 Commented on [#2](https://github.com/vchrombie/peodd/issues/2) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
+5. 🗣 Commented on [#3](https://github.com/python-poetry/poetry-export-plugin/issues/3) in [python-poetry/poetry-export-plugin](https://github.com/python-poetry/poetry-export-plugin)
 <!--END_SECTION:activity-->
 
 <!--
