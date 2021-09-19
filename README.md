@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/vchrombie/peodd/issues/2) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
-2. 🎉 Merged PR [#762](https://github.com/chaoss/grimoirelab-perceval/pull/762) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-3. 🗣 Commented on [#762](https://github.com/chaoss/grimoirelab-perceval/issues/762) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-4. ❗️ Opened issue [#1](https://github.com/vchrombie/peodd/issues/1) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
-5. 🗣 Commented on [#70](https://github.com/opensearch-project/opensearch-py/issues/70) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
+1. 🗣 Commented on [#3](https://github.com/python-poetry/poetry-export-plugin/issues/3) in [python-poetry/poetry-export-plugin](https://github.com/python-poetry/poetry-export-plugin)
+2. 🗣 Commented on [#4283](https://github.com/python-poetry/poetry/issues/4283) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+3. 🗣 Commented on [#2](https://github.com/vchrombie/peodd/issues/2) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
+4. 🎉 Merged PR [#762](https://github.com/chaoss/grimoirelab-perceval/pull/762) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+5. 🗣 Commented on [#762](https://github.com/chaoss/grimoirelab-perceval/issues/762) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
 <!--END_SECTION:activity-->
 
 <!--
