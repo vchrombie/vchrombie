@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/python-poetry/poetry-core/issues/40) in [python-poetry/poetry-core](https://github.com/python-poetry/poetry-core)
+1. 🎉 Merged PR [#160](https://github.com/chaoss/grimoirelab-tutorial/pull/160) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
 2. 🗣 Commented on [#160](https://github.com/chaoss/grimoirelab-tutorial/issues/160) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-3. 💪 Opened PR [#160](https://github.com/chaoss/grimoirelab-tutorial/pull/160) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-4. 🗣 Commented on [#159](https://github.com/chaoss/grimoirelab-tutorial/issues/159) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-5. 🎉 Merged PR [#159](https://github.com/chaoss/grimoirelab-tutorial/pull/159) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+3. 🗣 Commented on [#40](https://github.com/python-poetry/poetry-core/issues/40) in [python-poetry/poetry-core](https://github.com/python-poetry/poetry-core)
+4. 🗣 Commented on [#160](https://github.com/chaoss/grimoirelab-tutorial/issues/160) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+5. 💪 Opened PR [#160](https://github.com/chaoss/grimoirelab-tutorial/pull/160) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
 <!--END_SECTION:activity-->
 
 <!--
