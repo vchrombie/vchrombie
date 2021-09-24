@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/2) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
-2. ❗️ Closed issue [#1](https://github.com/vchrombie/grimoirelab-perceval-zulip/issues/1) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
-3. 🎉 Merged PR [#160](https://github.com/chaoss/grimoirelab-tutorial/pull/160) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-4. 🗣 Commented on [#160](https://github.com/chaoss/grimoirelab-tutorial/issues/160) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-5. 🗣 Commented on [#40](https://github.com/python-poetry/poetry-core/issues/40) in [python-poetry/poetry-core](https://github.com/python-poetry/poetry-core)
+1. 🎉 Merged PR [#161](https://github.com/chaoss/grimoirelab-tutorial/pull/161) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+2. 🎉 Merged PR [#2](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/2) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+3. ❗️ Closed issue [#1](https://github.com/vchrombie/grimoirelab-perceval-zulip/issues/1) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+4. 🎉 Merged PR [#160](https://github.com/chaoss/grimoirelab-tutorial/pull/160) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+5. 🗣 Commented on [#160](https://github.com/chaoss/grimoirelab-tutorial/issues/160) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
 <!--END_SECTION:activity-->
 
 <!--
