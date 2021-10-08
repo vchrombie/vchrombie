@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#180](https://github.com/chaoss/grimoirelab-tutorial/issues/180) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-2. 💪 Opened PR [#454](https://github.com/chaoss/grimoirelab/pull/454) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-3. 🗣 Commented on [#453](https://github.com/chaoss/grimoirelab/issues/453) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-4. 🎉 Merged PR [#181](https://github.com/chaoss/grimoirelab-tutorial/pull/181) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-5. 🗣 Commented on [#691](https://github.com/chaoss/grimoirelab-perceval/issues/691) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+1. ❗️ Closed issue [#587](https://github.com/chaoss/grimoirelab-sortinghat/issues/587) in [chaoss/grimoirelab-sortinghat](https://github.com/chaoss/grimoirelab-sortinghat)
+2. 🗣 Commented on [#587](https://github.com/chaoss/grimoirelab-sortinghat/issues/587) in [chaoss/grimoirelab-sortinghat](https://github.com/chaoss/grimoirelab-sortinghat)
+3. 🗣 Commented on [#450](https://github.com/chaoss/grimoirelab/issues/450) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+4. ❗️ Closed issue [#315](https://github.com/chaoss/grimoirelab/issues/315) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+5. 🗣 Commented on [#315](https://github.com/chaoss/grimoirelab/issues/315) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
 <!--END_SECTION:activity-->
 
 <!--
