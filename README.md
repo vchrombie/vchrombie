@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#183](https://github.com/chaoss/grimoirelab-tutorial/issues/183) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-2. 🗣 Commented on [#1010](https://github.com/chaoss/grimoirelab-elk/issues/1010) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-3. ❗️ Closed issue [#587](https://github.com/chaoss/grimoirelab-sortinghat/issues/587) in [chaoss/grimoirelab-sortinghat](https://github.com/chaoss/grimoirelab-sortinghat)
-4. 🗣 Commented on [#587](https://github.com/chaoss/grimoirelab-sortinghat/issues/587) in [chaoss/grimoirelab-sortinghat](https://github.com/chaoss/grimoirelab-sortinghat)
-5. 🗣 Commented on [#450](https://github.com/chaoss/grimoirelab/issues/450) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+1. ❗️ Opened issue [#186](https://github.com/chaoss/grimoirelab-tutorial/issues/186) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+2. ❗️ Opened issue [#183](https://github.com/chaoss/grimoirelab-tutorial/issues/183) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+3. 🗣 Commented on [#1010](https://github.com/chaoss/grimoirelab-elk/issues/1010) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+4. ❗️ Closed issue [#587](https://github.com/chaoss/grimoirelab-sortinghat/issues/587) in [chaoss/grimoirelab-sortinghat](https://github.com/chaoss/grimoirelab-sortinghat)
+5. 🗣 Commented on [#587](https://github.com/chaoss/grimoirelab-sortinghat/issues/587) in [chaoss/grimoirelab-sortinghat](https://github.com/chaoss/grimoirelab-sortinghat)
 <!--END_SECTION:activity-->
 
 <!--
