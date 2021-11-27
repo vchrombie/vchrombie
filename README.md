@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/opensearch-project/opensearch-dsl-py/pull/35) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
-2. 💪 Opened PR [#34](https://github.com/opensearch-project/opensearch-dsl-py/pull/34) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
-3. ❗️ Closed issue [#451](https://github.com/chaoss/grimoirelab/issues/451) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-4. 🗣 Commented on [#451](https://github.com/chaoss/grimoirelab/issues/451) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-5. 🗣 Commented on [#80](https://github.com/opensearch-project/opensearch-py/issues/80) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
+1. 🗣 Commented on [#70](https://github.com/opensearch-project/opensearch-py/issues/70) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
+2. 💪 Opened PR [#35](https://github.com/opensearch-project/opensearch-dsl-py/pull/35) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
+3. 💪 Opened PR [#34](https://github.com/opensearch-project/opensearch-dsl-py/pull/34) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
+4. ❗️ Closed issue [#451](https://github.com/chaoss/grimoirelab/issues/451) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+5. 🗣 Commented on [#451](https://github.com/chaoss/grimoirelab/issues/451) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
 <!--END_SECTION:activity-->
 
 <!--
