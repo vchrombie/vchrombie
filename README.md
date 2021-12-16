@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/opensearch-project/opensearch-py/issues/70) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
-2. 🗣 Commented on [#70](https://github.com/opensearch-project/opensearch-py/issues/70) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
-3. 💪 Opened PR [#35](https://github.com/opensearch-project/opensearch-dsl-py/pull/35) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
-4. 💪 Opened PR [#34](https://github.com/opensearch-project/opensearch-dsl-py/pull/34) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
-5. ❗️ Closed issue [#451](https://github.com/chaoss/grimoirelab/issues/451) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+1. ❗️ Closed issue [#767](https://github.com/chaoss/grimoirelab-perceval/issues/767) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+2. 🗣 Commented on [#767](https://github.com/chaoss/grimoirelab-perceval/issues/767) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+3. 🗣 Commented on [#70](https://github.com/opensearch-project/opensearch-py/issues/70) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
+4. 🗣 Commented on [#70](https://github.com/opensearch-project/opensearch-py/issues/70) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
+5. 💪 Opened PR [#35](https://github.com/opensearch-project/opensearch-dsl-py/pull/35) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
 <!--END_SECTION:activity-->
 
 <!--
