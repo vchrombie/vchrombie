@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/vchrombie/peodd/issues/2) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
-2. 🗣 Commented on [#3](https://github.com/vchrombie/peodd/issues/3) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
-3. ❗️ Closed issue [#767](https://github.com/chaoss/grimoirelab-perceval/issues/767) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-4. 🗣 Commented on [#767](https://github.com/chaoss/grimoirelab-perceval/issues/767) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-5. 🗣 Commented on [#70](https://github.com/opensearch-project/opensearch-py/issues/70) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
+1. 💪 Opened PR [#45](https://github.com/chaoss/grimoirelab-toolkit/pull/45) in [chaoss/grimoirelab-toolkit](https://github.com/chaoss/grimoirelab-toolkit)
+2. 🗣 Commented on [#2](https://github.com/vchrombie/peodd/issues/2) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
+3. 🗣 Commented on [#3](https://github.com/vchrombie/peodd/issues/3) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
+4. ❗️ Closed issue [#767](https://github.com/chaoss/grimoirelab-perceval/issues/767) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+5. 🗣 Commented on [#767](https://github.com/chaoss/grimoirelab-perceval/issues/767) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
 <!--END_SECTION:activity-->
 
 <!--
