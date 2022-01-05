@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/vchrombie/peodd/pull/4) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
-2. 💪 Opened PR [#4](https://github.com/vchrombie/peodd/pull/4) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
-3. ❌ Closed PR [#3](https://github.com/python-poetry/poetry-export-plugin/pull/3) in [python-poetry/poetry-export-plugin](https://github.com/python-poetry/poetry-export-plugin)
-4. 🗣 Commented on [#3](https://github.com/python-poetry/poetry-export-plugin/issues/3) in [python-poetry/poetry-export-plugin](https://github.com/python-poetry/poetry-export-plugin)
-5. 💪 Opened PR [#46](https://github.com/chaoss/grimoirelab-toolkit/pull/46) in [chaoss/grimoirelab-toolkit](https://github.com/chaoss/grimoirelab-toolkit)
+1. 🎉 Merged PR [#6](https://github.com/vchrombie/peodd/pull/6) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
+2. 🗣 Commented on [#6](https://github.com/vchrombie/peodd/issues/6) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
+3. 💪 Opened PR [#6](https://github.com/vchrombie/peodd/pull/6) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
+4. 💪 Opened PR [#5](https://github.com/vchrombie/peodd/pull/5) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
+5. 🎉 Merged PR [#4](https://github.com/vchrombie/peodd/pull/4) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
 <!--END_SECTION:activity-->
 
 <!--
