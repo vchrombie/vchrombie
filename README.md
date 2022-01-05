@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/vchrombie/peodd/pull/6) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
-2. 🗣 Commented on [#6](https://github.com/vchrombie/peodd/issues/6) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
-3. 💪 Opened PR [#6](https://github.com/vchrombie/peodd/pull/6) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
-4. 💪 Opened PR [#5](https://github.com/vchrombie/peodd/pull/5) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
-5. 🎉 Merged PR [#4](https://github.com/vchrombie/peodd/pull/4) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
+1. 🎉 Merged PR [#5](https://github.com/vchrombie/peodd/pull/5) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
+2. 🎉 Merged PR [#6](https://github.com/vchrombie/peodd/pull/6) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
+3. 🗣 Commented on [#6](https://github.com/vchrombie/peodd/issues/6) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
+4. 💪 Opened PR [#6](https://github.com/vchrombie/peodd/pull/6) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
+5. 💪 Opened PR [#5](https://github.com/vchrombie/peodd/pull/5) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
 <!--END_SECTION:activity-->
 
 <!--
