@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/vchrombie/peodd/issues/3) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
-2. 🎉 Merged PR [#8](https://github.com/vchrombie/peodd/pull/8) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
-3. 🎉 Merged PR [#7](https://github.com/vchrombie/peodd/pull/7) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
-4. ❗️ Closed issue [#3](https://github.com/vchrombie/peodd/issues/3) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
-5. 🎉 Merged PR [#5](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/5) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+1. ❗️ Closed issue [#394](https://github.com/chaoss/grimoirelab/issues/394) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+2. 🗣 Commented on [#394](https://github.com/chaoss/grimoirelab/issues/394) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+3. 🗣 Commented on [#455](https://github.com/chaoss/grimoirelab/issues/455) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+4. 💪 Opened PR [#1](https://github.com/vchrombie/community-handbook/pull/1) in [vchrombie/community-handbook](https://github.com/vchrombie/community-handbook)
+5. ❗️ Closed issue [#389](https://github.com/chaoss/grimoirelab/issues/389) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
 <!--END_SECTION:activity-->
 
 <!--
