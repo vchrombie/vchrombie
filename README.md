@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/vchrombie/community-handbook/issues/1) in [vchrombie/community-handbook](https://github.com/vchrombie/community-handbook)
-2. 💪 Opened PR [#27](https://github.com/chaoss/community-handbook/pull/27) in [chaoss/community-handbook](https://github.com/chaoss/community-handbook)
-3. 🗣 Commented on [#1](https://github.com/vchrombie/community-handbook/issues/1) in [vchrombie/community-handbook](https://github.com/vchrombie/community-handbook)
-4. ❌ Closed PR [#1](https://github.com/vchrombie/community-handbook/pull/1) in [vchrombie/community-handbook](https://github.com/vchrombie/community-handbook)
-5. 🗣 Commented on [#1](https://github.com/vchrombie/community-handbook/issues/1) in [vchrombie/community-handbook](https://github.com/vchrombie/community-handbook)
+1. ❗️ Opened issue [#460](https://github.com/chaoss/grimoirelab/issues/460) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+2. 🗣 Commented on [#1](https://github.com/vchrombie/community-handbook/issues/1) in [vchrombie/community-handbook](https://github.com/vchrombie/community-handbook)
+3. 💪 Opened PR [#27](https://github.com/chaoss/community-handbook/pull/27) in [chaoss/community-handbook](https://github.com/chaoss/community-handbook)
+4. 🗣 Commented on [#1](https://github.com/vchrombie/community-handbook/issues/1) in [vchrombie/community-handbook](https://github.com/vchrombie/community-handbook)
+5. ❌ Closed PR [#1](https://github.com/vchrombie/community-handbook/pull/1) in [vchrombie/community-handbook](https://github.com/vchrombie/community-handbook)
 <!--END_SECTION:activity-->
 
 <!--
