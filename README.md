@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Groninger-Bugbusters/grimoirelab-perceval-coveralls/issues/2) in [Groninger-Bugbusters/grimoirelab-perceval-coveralls](https://github.com/Groninger-Bugbusters/grimoirelab-perceval-coveralls)
-2. ❗️ Opened issue [#1612](https://github.com/lemurheavy/coveralls-public/issues/1612) in [lemurheavy/coveralls-public](https://github.com/lemurheavy/coveralls-public)
-3. ❗️ Opened issue [#1](https://github.com/Groninger-Bugbusters/grimoirelab-perceval-coveralls/issues/1) in [Groninger-Bugbusters/grimoirelab-perceval-coveralls](https://github.com/Groninger-Bugbusters/grimoirelab-perceval-coveralls)
-4. 🗣 Commented on [#773](https://github.com/chaoss/grimoirelab-perceval/issues/773) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-5. 🗣 Commented on [#103](https://github.com/chaoss/grimoirelab-graal/issues/103) in [chaoss/grimoirelab-graal](https://github.com/chaoss/grimoirelab-graal)
+1. ❗️ Opened issue [#3](https://github.com/Groninger-Bugbusters/grimoirelab-perceval-coveralls/issues/3) in [Groninger-Bugbusters/grimoirelab-perceval-coveralls](https://github.com/Groninger-Bugbusters/grimoirelab-perceval-coveralls)
+2. ❗️ Opened issue [#2](https://github.com/Groninger-Bugbusters/grimoirelab-perceval-coveralls/issues/2) in [Groninger-Bugbusters/grimoirelab-perceval-coveralls](https://github.com/Groninger-Bugbusters/grimoirelab-perceval-coveralls)
+3. ❗️ Opened issue [#1612](https://github.com/lemurheavy/coveralls-public/issues/1612) in [lemurheavy/coveralls-public](https://github.com/lemurheavy/coveralls-public)
+4. ❗️ Opened issue [#1](https://github.com/Groninger-Bugbusters/grimoirelab-perceval-coveralls/issues/1) in [Groninger-Bugbusters/grimoirelab-perceval-coveralls](https://github.com/Groninger-Bugbusters/grimoirelab-perceval-coveralls)
+5. 🗣 Commented on [#773](https://github.com/chaoss/grimoirelab-perceval/issues/773) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
 <!--END_SECTION:activity-->
 
 <!--
