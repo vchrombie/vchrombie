@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#461](https://github.com/chaoss/grimoirelab/issues/461) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-2. 💪 Opened PR [#703](https://github.com/chaoss/website/pull/703) in [chaoss/website](https://github.com/chaoss/website)
-3. 💪 Opened PR [#461](https://github.com/chaoss/grimoirelab/pull/461) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-4. 🗣 Commented on [#103](https://github.com/chaoss/grimoirelab-graal/issues/103) in [chaoss/grimoirelab-graal](https://github.com/chaoss/grimoirelab-graal)
-5. 🗣 Commented on [#109](https://github.com/chaoss/grimoirelab-graal/issues/109) in [chaoss/grimoirelab-graal](https://github.com/chaoss/grimoirelab-graal)
+1. 🗣 Commented on [#527](https://github.com/chaoss/grimoirelab-sirmordred/issues/527) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+2. 🗣 Commented on [#461](https://github.com/chaoss/grimoirelab/issues/461) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+3. 💪 Opened PR [#703](https://github.com/chaoss/website/pull/703) in [chaoss/website](https://github.com/chaoss/website)
+4. 💪 Opened PR [#461](https://github.com/chaoss/grimoirelab/pull/461) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+5. 🗣 Commented on [#103](https://github.com/chaoss/grimoirelab-graal/issues/103) in [chaoss/grimoirelab-graal](https://github.com/chaoss/grimoirelab-graal)
 <!--END_SECTION:activity-->
 
 <!--
