@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#192](https://github.com/chaoss/grimoirelab-tutorial/pull/192) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-2. 🗣 Commented on [#192](https://github.com/chaoss/grimoirelab-tutorial/issues/192) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-3. 🎉 Merged PR [#194](https://github.com/chaoss/grimoirelab-tutorial/pull/194) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-4. 🗣 Commented on [#194](https://github.com/chaoss/grimoirelab-tutorial/issues/194) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-5. 🎉 Merged PR [#193](https://github.com/chaoss/grimoirelab-tutorial/pull/193) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+1. 🗣 Commented on [#112](https://github.com/opensearch-project/opensearch-py/issues/112) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
+2. 🎉 Merged PR [#192](https://github.com/chaoss/grimoirelab-tutorial/pull/192) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+3. 🗣 Commented on [#192](https://github.com/chaoss/grimoirelab-tutorial/issues/192) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+4. 🎉 Merged PR [#194](https://github.com/chaoss/grimoirelab-tutorial/pull/194) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+5. 🗣 Commented on [#194](https://github.com/chaoss/grimoirelab-tutorial/issues/194) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
 <!--END_SECTION:activity-->
 
 <!--
