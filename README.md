@@ -14,10 +14,10 @@ I'm Venu. I love building tools that make boring tasks easy.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#198](https://github.com/chaoss/grimoirelab-tutorial/issues/198) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-2. 🗣 Commented on [#775](https://github.com/chaoss/grimoirelab-perceval/issues/775) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-3. 🗣 Commented on [#48](https://github.com/chaoss/grimoirelab-toolkit/issues/48) in [chaoss/grimoirelab-toolkit](https://github.com/chaoss/grimoirelab-toolkit)
+2. 🎉 Merged PR [#198](https://github.com/chaoss/grimoirelab-tutorial/pull/198) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+3. ❗️ Closed issue [#195](https://github.com/chaoss/grimoirelab-tutorial/issues/195) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
 4. 🗣 Commented on [#198](https://github.com/chaoss/grimoirelab-tutorial/issues/198) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-5. 🗣 Commented on [#198](https://github.com/chaoss/grimoirelab-tutorial/issues/198) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+5. 🗣 Commented on [#775](https://github.com/chaoss/grimoirelab-perceval/issues/775) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
 <!--END_SECTION:activity-->
 
 <!--
