@@ -12,13 +12,8 @@ I'm Venu. I love building tools that make boring tasks easy.
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/chaoss/grimoirelab-perceval-weblate/pull/9) in [chaoss/grimoirelab-perceval-weblate](https://github.com/chaoss/grimoirelab-perceval-weblate)
-2. 💪 Opened PR [#22](https://github.com/Bitergia/grimoirelab-perceval-finos/pull/22) in [Bitergia/grimoirelab-perceval-finos](https://github.com/Bitergia/grimoirelab-perceval-finos)
-3. ❌ Closed PR [#1](https://github.com/vchrombie/grimoirelab-perceval-finos/pull/1) in [vchrombie/grimoirelab-perceval-finos](https://github.com/vchrombie/grimoirelab-perceval-finos)
-4. 💪 Opened PR [#1](https://github.com/vchrombie/grimoirelab-perceval-finos/pull/1) in [vchrombie/grimoirelab-perceval-finos](https://github.com/vchrombie/grimoirelab-perceval-finos)
-5. 💪 Opened PR [#31](https://github.com/chaoss/grimoirelab-perceval-puppet/pull/31) in [chaoss/grimoirelab-perceval-puppet](https://github.com/chaoss/grimoirelab-perceval-puppet)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 <!--
 **vchrombie/vchrombie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
