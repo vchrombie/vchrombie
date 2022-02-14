@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#463](https://github.com/chaoss/grimoirelab/issues/463) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-2. 🗣 Commented on [#463](https://github.com/chaoss/grimoirelab/issues/463) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-3. 🎉 Merged PR [#197](https://github.com/chaoss/grimoirelab-tutorial/pull/197) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-4. 🗣 Commented on [#197](https://github.com/chaoss/grimoirelab-tutorial/issues/197) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-5. 🗣 Commented on [#198](https://github.com/chaoss/grimoirelab-tutorial/issues/198) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+1. 💪 Opened PR [#22](https://github.com/Bitergia/grimoirelab-perceval-finos/pull/22) in [Bitergia/grimoirelab-perceval-finos](https://github.com/Bitergia/grimoirelab-perceval-finos)
+2. ❌ Closed PR [#1](https://github.com/vchrombie/grimoirelab-perceval-finos/pull/1) in [vchrombie/grimoirelab-perceval-finos](https://github.com/vchrombie/grimoirelab-perceval-finos)
+3. 💪 Opened PR [#1](https://github.com/vchrombie/grimoirelab-perceval-finos/pull/1) in [vchrombie/grimoirelab-perceval-finos](https://github.com/vchrombie/grimoirelab-perceval-finos)
+4. 💪 Opened PR [#31](https://github.com/chaoss/grimoirelab-perceval-puppet/pull/31) in [chaoss/grimoirelab-perceval-puppet](https://github.com/chaoss/grimoirelab-perceval-puppet)
+5. 💪 Opened PR [#36](https://github.com/chaoss/grimoirelab-perceval-opnfv/pull/36) in [chaoss/grimoirelab-perceval-opnfv](https://github.com/chaoss/grimoirelab-perceval-opnfv)
 <!--END_SECTION:activity-->
 
 <!--
