@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#22](https://github.com/Bitergia/grimoirelab-perceval-finos/pull/22#issuecomment-1039035734) in [Bitergia/grimoirelab-perceval-finos](https://github.com/Bitergia/grimoirelab-perceval-finos)
-2. ✌️ Released [v0.1.0](https://github.com/vchrombie/wordle-github-contributions/releases/tag/v0.1.0) in [vchrombie/wordle-github-contributions](https://github.com/vchrombie/wordle-github-contributions)
-3. 💪 Opened PR [#9](https://github.com/chaoss/grimoirelab-perceval-weblate/pull/9) in [chaoss/grimoirelab-perceval-weblate](https://github.com/chaoss/grimoirelab-perceval-weblate)
-4. 💪 Opened PR [#22](https://github.com/Bitergia/grimoirelab-perceval-finos/pull/22) in [Bitergia/grimoirelab-perceval-finos](https://github.com/Bitergia/grimoirelab-perceval-finos)
-5. ❌ Closed PR [#1](https://github.com/vchrombie/grimoirelab-perceval-finos/pull/1) in [vchrombie/grimoirelab-perceval-finos](https://github.com/vchrombie/grimoirelab-perceval-finos)
+1. 💬 Commented on [#912](https://github.com/chaoss/grimoirelab-elk/issues/912#issuecomment-1039082807) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+2. ✔️ Closed issue [#912](https://github.com/chaoss/grimoirelab-elk/issues/912) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+3. 💬 Commented on [#22](https://github.com/Bitergia/grimoirelab-perceval-finos/pull/22#issuecomment-1039035734) in [Bitergia/grimoirelab-perceval-finos](https://github.com/Bitergia/grimoirelab-perceval-finos)
+4. ✌️ Released [v0.1.0](https://github.com/vchrombie/wordle-github-contributions/releases/tag/v0.1.0) in [vchrombie/wordle-github-contributions](https://github.com/vchrombie/wordle-github-contributions)
+5. 💪 Opened PR [#9](https://github.com/chaoss/grimoirelab-perceval-weblate/pull/9) in [chaoss/grimoirelab-perceval-weblate](https://github.com/chaoss/grimoirelab-perceval-weblate)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
