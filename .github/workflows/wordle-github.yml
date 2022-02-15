@@ -13,7 +13,10 @@ jobs:
       - uses: actions/checkout@v2
       - uses: vchrombie/wordle-github-contributions@master
         with:
-          HASHTAGS: 'wordle github contributions'
+          HASHTAGS: |
+            wordle
+            github
+            contributions
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
