@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#40](https://github.com/chaoss/grimoirelab-kidash/issues/40#issuecomment-1048470847) in [chaoss/grimoirelab-kidash](https://github.com/chaoss/grimoirelab-kidash)
-2. 💬 Commented on [#9](https://github.com/vchrombie/peodd/issues/9#issuecomment-1048465616) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
-3. ✔️ Closed issue [#471](https://github.com/chaoss/grimoirelab/issues/471) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-4. 💬 Commented on [#471](https://github.com/chaoss/grimoirelab/issues/471#issuecomment-1048093837) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-5. 💬 Commented on [#471](https://github.com/chaoss/grimoirelab/issues/471#issuecomment-1048093512) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+1. ⭐ Starred [Bitergia/bitergia-analytics-opensearch-dashboards](https://github.com/Bitergia/bitergia-analytics-opensearch-dashboards)
+2. 💬 Commented on [#40](https://github.com/chaoss/grimoirelab-kidash/issues/40#issuecomment-1048470847) in [chaoss/grimoirelab-kidash](https://github.com/chaoss/grimoirelab-kidash)
+3. 💬 Commented on [#9](https://github.com/vchrombie/peodd/issues/9#issuecomment-1048465616) in [vchrombie/peodd](https://github.com/vchrombie/peodd)
+4. ✔️ Closed issue [#471](https://github.com/chaoss/grimoirelab/issues/471) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+5. 💬 Commented on [#471](https://github.com/chaoss/grimoirelab/issues/471#issuecomment-1048093837) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
