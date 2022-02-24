@@ -15,9 +15,9 @@ I'm Venu. I love building tools that make boring tasks easy.
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [vchrombie/django-react-playground](https://github.com/vchrombie/django-react-playground)
 2. 📔 Created new repository [vchrombie/django-react-playground](https://github.com/vchrombie/django-react-playground)
-3. 💬 Commented on [#472](https://github.com/chaoss/grimoirelab/issues/472#issuecomment-1049066411) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-4. ⭐ Starred [Bitergia/bitergia-analytics-opensearch-dashboards](https://github.com/Bitergia/bitergia-analytics-opensearch-dashboards)
-5. 💬 Commented on [#40](https://github.com/chaoss/grimoirelab-kidash/issues/40#issuecomment-1048470847) in [chaoss/grimoirelab-kidash](https://github.com/chaoss/grimoirelab-kidash)
+3. 📔 Created new repository [vchrombie/django-react-playground](https://github.com/vchrombie/django-react-playground)
+4. 💬 Commented on [#472](https://github.com/chaoss/grimoirelab/issues/472#issuecomment-1049066411) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+5. ⭐ Starred [Bitergia/bitergia-analytics-opensearch-dashboards](https://github.com/Bitergia/bitergia-analytics-opensearch-dashboards)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
