@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [vchrombie/django-react-playground](https://github.com/vchrombie/django-react-playground)
-2. 📔 Created new repository [vchrombie/django-react-playground](https://github.com/vchrombie/django-react-playground)
+1. 💬 Commented on [#602](https://github.com/chaoss/grimoirelab-sortinghat/pull/602#discussion_r813689668) in [chaoss/grimoirelab-sortinghat](https://github.com/chaoss/grimoirelab-sortinghat)
+2. 💬 Commented on [#602](https://github.com/chaoss/grimoirelab-sortinghat/pull/602#issuecomment-1049644772) in [chaoss/grimoirelab-sortinghat](https://github.com/chaoss/grimoirelab-sortinghat)
 3. 📔 Created new repository [vchrombie/django-react-playground](https://github.com/vchrombie/django-react-playground)
-4. 💬 Commented on [#472](https://github.com/chaoss/grimoirelab/issues/472#issuecomment-1049066411) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-5. ⭐ Starred [Bitergia/bitergia-analytics-opensearch-dashboards](https://github.com/Bitergia/bitergia-analytics-opensearch-dashboards)
+4. 📔 Created new repository [vchrombie/django-react-playground](https://github.com/vchrombie/django-react-playground)
+5. 📔 Created new repository [vchrombie/django-react-playground](https://github.com/vchrombie/django-react-playground)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
