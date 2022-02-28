@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [vchrombie/django-react-playground](https://github.com/vchrombie/django-react-playground)
-2. 💬 Commented on [#528](https://github.com/chaoss/grimoirelab-sirmordred/issues/528#issuecomment-1053909115) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-3. 🎉 Merged PR [#2](https://github.com/vchrombie/blog/pull/2) in [vchrombie/blog](https://github.com/vchrombie/blog)
-4. 👍 Approved [#2](https://github.com/vchrombie/blog/pull/2#pullrequestreview-894667079) in [vchrombie/blog](https://github.com/vchrombie/blog)
-5. 🎉 Merged PR [#202](https://github.com/chaoss/grimoirelab-tutorial/pull/202) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+1. 💬 Commented on [#529](https://github.com/chaoss/grimoirelab-sirmordred/pull/529#issuecomment-1054190872) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+2. 🎉 Merged PR [#529](https://github.com/chaoss/grimoirelab-sirmordred/pull/529) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+3. 👍 Approved [#529](https://github.com/chaoss/grimoirelab-sirmordred/pull/529#pullrequestreview-895003615) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+4. 💬 Commented on [#597](https://github.com/chaoss/grimoirelab-sortinghat/issues/597#issuecomment-1054188000) in [chaoss/grimoirelab-sortinghat](https://github.com/chaoss/grimoirelab-sortinghat)
+5. 📔 Created new repository [vchrombie/django-react-playground](https://github.com/vchrombie/django-react-playground)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
