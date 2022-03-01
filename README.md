@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#528](https://github.com/chaoss/grimoirelab-sirmordred/issues/528#issuecomment-1055271762) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-2. 📔 Created new repository [vchrombie/django-behave-playground](https://github.com/vchrombie/django-behave-playground)
-3. 💬 Commented on [#1036](https://github.com/chaoss/grimoirelab-elk/pull/1036#issuecomment-1055125603) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-4. 🔱 Forked [vchrombie/behave](https://github.com/vchrombie/behave) from [behave/behave](https://github.com/behave/behave)
-5. ⭐ Starred [behave/behave](https://github.com/behave/behave)
+1. 📔 Created new repository [vchrombie/bdd-testing-behave](https://github.com/vchrombie/bdd-testing-behave)
+2. 💬 Commented on [#528](https://github.com/chaoss/grimoirelab-sirmordred/issues/528#issuecomment-1055271762) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+3. 📔 Created new repository [vchrombie/django-behave-playground](https://github.com/vchrombie/django-behave-playground)
+4. 💬 Commented on [#1036](https://github.com/chaoss/grimoirelab-elk/pull/1036#issuecomment-1055125603) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+5. 🔱 Forked [vchrombie/behave](https://github.com/vchrombie/behave) from [behave/behave](https://github.com/behave/behave)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
