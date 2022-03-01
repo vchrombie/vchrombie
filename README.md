@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1036](https://github.com/chaoss/grimoirelab-elk/pull/1036#issuecomment-1055125603) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-2. 🔱 Forked [vchrombie/behave](https://github.com/vchrombie/behave) from [behave/behave](https://github.com/behave/behave)
-3. ⭐ Starred [behave/behave](https://github.com/behave/behave)
-4. ⭐ Starred [tatiana/estester](https://github.com/tatiana/estester)
-5. ⭐ Starred [radish-bdd/radish](https://github.com/radish-bdd/radish)
+1. 📔 Created new repository [vchrombie/django-behave-playground](https://github.com/vchrombie/django-behave-playground)
+2. 💬 Commented on [#1036](https://github.com/chaoss/grimoirelab-elk/pull/1036#issuecomment-1055125603) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+3. 🔱 Forked [vchrombie/behave](https://github.com/vchrombie/behave) from [behave/behave](https://github.com/behave/behave)
+4. ⭐ Starred [behave/behave](https://github.com/behave/behave)
+5. ⭐ Starred [tatiana/estester](https://github.com/tatiana/estester)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
