@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tatiana/estester](https://github.com/tatiana/estester)
-2. ⭐ Starred [radish-bdd/radish](https://github.com/radish-bdd/radish)
-3. ⭐ Starred [pytest-dev/pytest-bdd](https://github.com/pytest-dev/pytest-bdd)
-4. 🔱 Forked [vchrombie/radish](https://github.com/vchrombie/radish) from [radish-bdd/radish](https://github.com/radish-bdd/radish)
-5. 💬 Commented on [#1036](https://github.com/chaoss/grimoirelab-elk/pull/1036#issuecomment-1055053426) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+1. 🔱 Forked [vchrombie/behave](https://github.com/vchrombie/behave) from [behave/behave](https://github.com/behave/behave)
+2. ⭐ Starred [behave/behave](https://github.com/behave/behave)
+3. ⭐ Starred [tatiana/estester](https://github.com/tatiana/estester)
+4. ⭐ Starred [radish-bdd/radish](https://github.com/radish-bdd/radish)
+5. ⭐ Starred [pytest-dev/pytest-bdd](https://github.com/pytest-dev/pytest-bdd)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
