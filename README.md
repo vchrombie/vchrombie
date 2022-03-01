@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#529](https://github.com/chaoss/grimoirelab-sirmordred/pull/529#issuecomment-1054190872) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-2. 🎉 Merged PR [#529](https://github.com/chaoss/grimoirelab-sirmordred/pull/529) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-3. 👍 Approved [#529](https://github.com/chaoss/grimoirelab-sirmordred/pull/529#pullrequestreview-895003615) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-4. 💬 Commented on [#597](https://github.com/chaoss/grimoirelab-sortinghat/issues/597#issuecomment-1054188000) in [chaoss/grimoirelab-sortinghat](https://github.com/chaoss/grimoirelab-sortinghat)
-5. 📔 Created new repository [vchrombie/django-react-playground](https://github.com/vchrombie/django-react-playground)
+1. ⭐ Starred [tatiana/estester](https://github.com/tatiana/estester)
+2. ⭐ Starred [radish-bdd/radish](https://github.com/radish-bdd/radish)
+3. ⭐ Starred [pytest-dev/pytest-bdd](https://github.com/pytest-dev/pytest-bdd)
+4. 🔱 Forked [vchrombie/radish](https://github.com/vchrombie/radish) from [radish-bdd/radish](https://github.com/radish-bdd/radish)
+5. 💬 Commented on [#1036](https://github.com/chaoss/grimoirelab-elk/pull/1036#issuecomment-1055053426) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
