@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#428](https://github.com/radish-bdd/radish/pull/428) in [radish-bdd/radish](https://github.com/radish-bdd/radish)
-2. 📔 Created new repository [vchrombie/bdd-testing-behave](https://github.com/vchrombie/bdd-testing-behave)
-3. 📔 Created new repository [vchrombie/bdd-testing-behave](https://github.com/vchrombie/bdd-testing-behave)
-4. 💬 Commented on [#528](https://github.com/chaoss/grimoirelab-sirmordred/issues/528#issuecomment-1055271762) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-5. 📔 Created new repository [vchrombie/django-behave-playground](https://github.com/vchrombie/django-behave-playground)
+1. 💬 Commented on [#421](https://github.com/radish-bdd/radish/pull/421#issuecomment-1056817581) in [radish-bdd/radish](https://github.com/radish-bdd/radish)
+2. 💬 Commented on [#428](https://github.com/radish-bdd/radish/pull/428#issuecomment-1056814179) in [radish-bdd/radish](https://github.com/radish-bdd/radish)
+3. 💬 Commented on [#421](https://github.com/radish-bdd/radish/pull/421#issuecomment-1056812231) in [radish-bdd/radish](https://github.com/radish-bdd/radish)
+4. 💬 Commented on [#428](https://github.com/radish-bdd/radish/pull/428#issuecomment-1056809525) in [radish-bdd/radish](https://github.com/radish-bdd/radish)
+5. 💬 Commented on [#428](https://github.com/radish-bdd/radish/pull/428#issuecomment-1056807035) in [radish-bdd/radish](https://github.com/radish-bdd/radish)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
