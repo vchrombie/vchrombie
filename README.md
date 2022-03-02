@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [vchrombie/bdd-testing-behave](https://github.com/vchrombie/bdd-testing-behave)
+1. 💪 Opened PR [#428](https://github.com/radish-bdd/radish/pull/428) in [radish-bdd/radish](https://github.com/radish-bdd/radish)
 2. 📔 Created new repository [vchrombie/bdd-testing-behave](https://github.com/vchrombie/bdd-testing-behave)
-3. 💬 Commented on [#528](https://github.com/chaoss/grimoirelab-sirmordred/issues/528#issuecomment-1055271762) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-4. 📔 Created new repository [vchrombie/django-behave-playground](https://github.com/vchrombie/django-behave-playground)
-5. 💬 Commented on [#1036](https://github.com/chaoss/grimoirelab-elk/pull/1036#issuecomment-1055125603) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+3. 📔 Created new repository [vchrombie/bdd-testing-behave](https://github.com/vchrombie/bdd-testing-behave)
+4. 💬 Commented on [#528](https://github.com/chaoss/grimoirelab-sirmordred/issues/528#issuecomment-1055271762) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+5. 📔 Created new repository [vchrombie/django-behave-playground](https://github.com/vchrombie/django-behave-playground)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
