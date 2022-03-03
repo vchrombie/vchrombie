@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#51](https://github.com/chaoss/grimoirelab-kidash/pull/51) in [chaoss/grimoirelab-kidash](https://github.com/chaoss/grimoirelab-kidash)
-2. 💪 Opened PR [#50](https://github.com/chaoss/grimoirelab-kidash/pull/50) in [chaoss/grimoirelab-kidash](https://github.com/chaoss/grimoirelab-kidash)
-3. ❌ Closed PR [#31](https://github.com/chaoss/grimoirelab-kidash/pull/31) in [chaoss/grimoirelab-kidash](https://github.com/chaoss/grimoirelab-kidash)
-4. 💬 Commented on [#31](https://github.com/chaoss/grimoirelab-kidash/pull/31#issuecomment-1058004959) in [chaoss/grimoirelab-kidash](https://github.com/chaoss/grimoirelab-kidash)
-5. 🔱 Forked [vchrombie/shopping_cart_api](https://github.com/vchrombie/shopping_cart_api) from [hty8/shopping_cart_api](https://github.com/hty8/shopping_cart_api)
+1. 💪 Opened PR [#52](https://github.com/chaoss/grimoirelab-kidash/pull/52) in [chaoss/grimoirelab-kidash](https://github.com/chaoss/grimoirelab-kidash)
+2. 💪 Opened PR [#51](https://github.com/chaoss/grimoirelab-kidash/pull/51) in [chaoss/grimoirelab-kidash](https://github.com/chaoss/grimoirelab-kidash)
+3. 💪 Opened PR [#50](https://github.com/chaoss/grimoirelab-kidash/pull/50) in [chaoss/grimoirelab-kidash](https://github.com/chaoss/grimoirelab-kidash)
+4. ❌ Closed PR [#31](https://github.com/chaoss/grimoirelab-kidash/pull/31) in [chaoss/grimoirelab-kidash](https://github.com/chaoss/grimoirelab-kidash)
+5. 💬 Commented on [#31](https://github.com/chaoss/grimoirelab-kidash/pull/31#issuecomment-1058004959) in [chaoss/grimoirelab-kidash](https://github.com/chaoss/grimoirelab-kidash)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
