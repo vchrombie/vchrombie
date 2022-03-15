@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [vchrombie/behave-django](https://github.com/vchrombie/behave-django) from [behave/behave-django](https://github.com/behave/behave-django)
-2. 💪 Opened PR [#1040](https://github.com/chaoss/grimoirelab-elk/pull/1040) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-3. 🎉 Merged PR [#115](https://github.com/chaoss/grimoirelab-kingarthur/pull/115) in [chaoss/grimoirelab-kingarthur](https://github.com/chaoss/grimoirelab-kingarthur)
-4. 👍 Approved [#115](https://github.com/chaoss/grimoirelab-kingarthur/pull/115#pullrequestreview-904208904) in [chaoss/grimoirelab-kingarthur](https://github.com/chaoss/grimoirelab-kingarthur)
-5. ❗️ Opened issue [#1039](https://github.com/chaoss/grimoirelab-elk/issues/1039) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+1. 💬 Commented on [#428](https://github.com/radish-bdd/radish/pull/428#issuecomment-1067637618) in [radish-bdd/radish](https://github.com/radish-bdd/radish)
+2. 🔱 Forked [vchrombie/behave-django](https://github.com/vchrombie/behave-django) from [behave/behave-django](https://github.com/behave/behave-django)
+3. 💪 Opened PR [#1040](https://github.com/chaoss/grimoirelab-elk/pull/1040) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+4. 🎉 Merged PR [#115](https://github.com/chaoss/grimoirelab-kingarthur/pull/115) in [chaoss/grimoirelab-kingarthur](https://github.com/chaoss/grimoirelab-kingarthur)
+5. 👍 Approved [#115](https://github.com/chaoss/grimoirelab-kingarthur/pull/115#pullrequestreview-904208904) in [chaoss/grimoirelab-kingarthur](https://github.com/chaoss/grimoirelab-kingarthur)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
