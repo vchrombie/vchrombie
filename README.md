@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#428](https://github.com/radish-bdd/radish/pull/428#issuecomment-1067637618) in [radish-bdd/radish](https://github.com/radish-bdd/radish)
-2. 🔱 Forked [vchrombie/behave-django](https://github.com/vchrombie/behave-django) from [behave/behave-django](https://github.com/behave/behave-django)
-3. 💪 Opened PR [#1040](https://github.com/chaoss/grimoirelab-elk/pull/1040) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-4. 🎉 Merged PR [#115](https://github.com/chaoss/grimoirelab-kingarthur/pull/115) in [chaoss/grimoirelab-kingarthur](https://github.com/chaoss/grimoirelab-kingarthur)
-5. 👍 Approved [#115](https://github.com/chaoss/grimoirelab-kingarthur/pull/115#pullrequestreview-904208904) in [chaoss/grimoirelab-kingarthur](https://github.com/chaoss/grimoirelab-kingarthur)
+1. 💬 Commented on [#428](https://github.com/radish-bdd/radish/pull/428#issuecomment-1068142409) in [radish-bdd/radish](https://github.com/radish-bdd/radish)
+2. 💬 Commented on [#428](https://github.com/radish-bdd/radish/pull/428#issuecomment-1067637618) in [radish-bdd/radish](https://github.com/radish-bdd/radish)
+3. 🔱 Forked [vchrombie/behave-django](https://github.com/vchrombie/behave-django) from [behave/behave-django](https://github.com/behave/behave-django)
+4. 💪 Opened PR [#1040](https://github.com/chaoss/grimoirelab-elk/pull/1040) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+5. 🎉 Merged PR [#115](https://github.com/chaoss/grimoirelab-kingarthur/pull/115) in [chaoss/grimoirelab-kingarthur](https://github.com/chaoss/grimoirelab-kingarthur)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
