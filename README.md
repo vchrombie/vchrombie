@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#19235](https://github.com/apache/superset/pull/19235) in [apache/superset](https://github.com/apache/superset)
-2. 🔱 Forked [vchrombie/elasticsearch-dbapi](https://github.com/vchrombie/elasticsearch-dbapi) from [preset-io/elasticsearch-dbapi](https://github.com/preset-io/elasticsearch-dbapi)
-3. 💬 Commented on [#530](https://github.com/chaoss/grimoirelab-sirmordred/issues/530#issuecomment-1070343667) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-4. 🔱 Forked [vchrombie/superset](https://github.com/vchrombie/superset) from [apache/superset](https://github.com/apache/superset)
-5. ⭐ Starred [apache/superset](https://github.com/apache/superset)
+1. 💬 Commented on [#477](https://github.com/chaoss/grimoirelab/issues/477#issuecomment-1072070507) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+2. 💪 Opened PR [#19235](https://github.com/apache/superset/pull/19235) in [apache/superset](https://github.com/apache/superset)
+3. 🔱 Forked [vchrombie/elasticsearch-dbapi](https://github.com/vchrombie/elasticsearch-dbapi) from [preset-io/elasticsearch-dbapi](https://github.com/preset-io/elasticsearch-dbapi)
+4. 💬 Commented on [#530](https://github.com/chaoss/grimoirelab-sirmordred/issues/530#issuecomment-1070343667) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+5. 🔱 Forked [vchrombie/superset](https://github.com/vchrombie/superset) from [apache/superset](https://github.com/apache/superset)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
