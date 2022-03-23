@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#89](https://github.com/preset-io/elasticsearch-dbapi/pull/89) in [preset-io/elasticsearch-dbapi](https://github.com/preset-io/elasticsearch-dbapi)
-2. ⭐ Starred [BolisettySujith/Covi-Kill](https://github.com/BolisettySujith/Covi-Kill)
-3. 💬 Commented on [#477](https://github.com/chaoss/grimoirelab/issues/477#issuecomment-1072070507) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-4. 💪 Opened PR [#19235](https://github.com/apache/superset/pull/19235) in [apache/superset](https://github.com/apache/superset)
-5. 🔱 Forked [vchrombie/elasticsearch-dbapi](https://github.com/vchrombie/elasticsearch-dbapi) from [preset-io/elasticsearch-dbapi](https://github.com/preset-io/elasticsearch-dbapi)
+1. 🔴 Requested 2 change(s) for [#1030](https://github.com/chaoss/grimoirelab-elk/pull/1030#pullrequestreview-918454292) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+2. 💬 Commented on [#1030](https://github.com/chaoss/grimoirelab-elk/pull/1030#discussion_r833039304) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+3. 🎉 Merged PR [#1044](https://github.com/chaoss/grimoirelab-elk/pull/1044) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+4. 👍 Approved [#1044](https://github.com/chaoss/grimoirelab-elk/pull/1044#pullrequestreview-918450690) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+5. 💪 Opened PR [#89](https://github.com/preset-io/elasticsearch-dbapi/pull/89) in [preset-io/elasticsearch-dbapi](https://github.com/preset-io/elasticsearch-dbapi)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
