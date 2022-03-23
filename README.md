@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#1030](https://github.com/chaoss/grimoirelab-elk/pull/1030#pullrequestreview-918454292) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-2. 💬 Commented on [#1030](https://github.com/chaoss/grimoirelab-elk/pull/1030#discussion_r833039304) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-3. 🎉 Merged PR [#1044](https://github.com/chaoss/grimoirelab-elk/pull/1044) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-4. 👍 Approved [#1044](https://github.com/chaoss/grimoirelab-elk/pull/1044#pullrequestreview-918450690) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-5. 💪 Opened PR [#89](https://github.com/preset-io/elasticsearch-dbapi/pull/89) in [preset-io/elasticsearch-dbapi](https://github.com/preset-io/elasticsearch-dbapi)
+1. 🎉 Merged PR [#42](https://github.com/chaoss/grimoirelab-cereslib/pull/42) in [chaoss/grimoirelab-cereslib](https://github.com/chaoss/grimoirelab-cereslib)
+2. 👍 Approved [#42](https://github.com/chaoss/grimoirelab-cereslib/pull/42#pullrequestreview-918486744) in [chaoss/grimoirelab-cereslib](https://github.com/chaoss/grimoirelab-cereslib)
+3. 🎉 Merged PR [#113](https://github.com/chaoss/grimoirelab-graal/pull/113) in [chaoss/grimoirelab-graal](https://github.com/chaoss/grimoirelab-graal)
+4. 💬 Commented on [#113](https://github.com/chaoss/grimoirelab-graal/pull/113#issuecomment-1076163473) in [chaoss/grimoirelab-graal](https://github.com/chaoss/grimoirelab-graal)
+5. 💬 Commented on [#113](https://github.com/chaoss/grimoirelab-graal/pull/113#issuecomment-1076162858) in [chaoss/grimoirelab-graal](https://github.com/chaoss/grimoirelab-graal)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
