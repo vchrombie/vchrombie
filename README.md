@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#106](https://github.com/chaoss/grimoirelab-graal/pull/106) in [chaoss/grimoirelab-graal](https://github.com/chaoss/grimoirelab-graal)
-2. 💬 Commented on [#106](https://github.com/chaoss/grimoirelab-graal/pull/106#issuecomment-1078715559) in [chaoss/grimoirelab-graal](https://github.com/chaoss/grimoirelab-graal)
-3. 💬 Commented on [#103](https://github.com/chaoss/grimoirelab-graal/pull/103#issuecomment-1078714925) in [chaoss/grimoirelab-graal](https://github.com/chaoss/grimoirelab-graal)
-4. ✔️ Closed issue [#109](https://github.com/chaoss/grimoirelab-graal/issues/109) in [chaoss/grimoirelab-graal](https://github.com/chaoss/grimoirelab-graal)
-5. 💬 Commented on [#109](https://github.com/chaoss/grimoirelab-graal/issues/109#issuecomment-1078714059) in [chaoss/grimoirelab-graal](https://github.com/chaoss/grimoirelab-graal)
+1. 🔴 Requested 3 change(s) for [#59](https://github.com/chaoss/grimoirelab-perceval-mozilla/pull/59#pullrequestreview-921258511) in [chaoss/grimoirelab-perceval-mozilla](https://github.com/chaoss/grimoirelab-perceval-mozilla)
+2. 💬 Commented on [#59](https://github.com/chaoss/grimoirelab-perceval-mozilla/pull/59#discussion_r835011999) in [chaoss/grimoirelab-perceval-mozilla](https://github.com/chaoss/grimoirelab-perceval-mozilla)
+3. 💬 Commented on [#464](https://github.com/chaoss/grimoirelab/issues/464#issuecomment-1078726757) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+4. 💬 Commented on [#499](https://github.com/chaoss/grimoirelab-sigils/pull/499#discussion_r835004962) in [chaoss/grimoirelab-sigils](https://github.com/chaoss/grimoirelab-sigils)
+5. 💬 Commented on [#466](https://github.com/chaoss/grimoirelab/issues/466#issuecomment-1078720576) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
