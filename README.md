@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#59](https://github.com/chaoss/grimoirelab-perceval-mozilla/pull/59#pullrequestreview-923688866) in [chaoss/grimoirelab-perceval-mozilla](https://github.com/chaoss/grimoirelab-perceval-mozilla)
-2. 💬 Commented on [#320](https://github.com/chaoss/community/issues/320#issuecomment-1081081528) in [chaoss/community](https://github.com/chaoss/community)
-3. 💬 Commented on [#205](https://github.com/chaoss/grimoirelab-tutorial/pull/205#issuecomment-1081072206) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-4. 👍 Approved [#205](https://github.com/chaoss/grimoirelab-tutorial/pull/205#pullrequestreview-923664435) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-5. 💬 Commented on [#428](https://github.com/radish-bdd/radish/pull/428#issuecomment-1081070075) in [radish-bdd/radish](https://github.com/radish-bdd/radish)
+1. 💬 Commented on [#205](https://github.com/chaoss/grimoirelab-tutorial/pull/205#issuecomment-1081407242) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+2. 🎉 Merged PR [#205](https://github.com/chaoss/grimoirelab-tutorial/pull/205) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+3. ✔️ Closed issue [#204](https://github.com/chaoss/grimoirelab-tutorial/issues/204) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+4. 💬 Commented on [#499](https://github.com/chaoss/grimoirelab-sigils/pull/499#issuecomment-1081405480) in [chaoss/grimoirelab-sigils](https://github.com/chaoss/grimoirelab-sigils)
+5. 💬 Commented on [#205](https://github.com/chaoss/grimoirelab-tutorial/pull/205#issuecomment-1081404723) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
