@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#467](https://github.com/chaoss/grimoirelab/issues/467#issuecomment-1083194931) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-2. 🎉 Merged PR [#41](https://github.com/chaoss/grimoirelab-cereslib/pull/41) in [chaoss/grimoirelab-cereslib](https://github.com/chaoss/grimoirelab-cereslib)
-3. 👍 Approved [#41](https://github.com/chaoss/grimoirelab-cereslib/pull/41#pullrequestreview-926187743) in [chaoss/grimoirelab-cereslib](https://github.com/chaoss/grimoirelab-cereslib)
-4. 💬 Commented on [#481](https://github.com/chaoss/grimoirelab/issues/481#issuecomment-1083167608) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-5. 💬 Commented on [#456](https://github.com/chaoss/grimoirelab/issues/456#issuecomment-1083100941) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+1. 💬 Commented on [#305](https://github.com/chaoss/community/issues/305#issuecomment-1083640045) in [chaoss/community](https://github.com/chaoss/community)
+2. 💬 Commented on [#467](https://github.com/chaoss/grimoirelab/issues/467#issuecomment-1083194931) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+3. 🎉 Merged PR [#41](https://github.com/chaoss/grimoirelab-cereslib/pull/41) in [chaoss/grimoirelab-cereslib](https://github.com/chaoss/grimoirelab-cereslib)
+4. 👍 Approved [#41](https://github.com/chaoss/grimoirelab-cereslib/pull/41#pullrequestreview-926187743) in [chaoss/grimoirelab-cereslib](https://github.com/chaoss/grimoirelab-cereslib)
+5. 💬 Commented on [#481](https://github.com/chaoss/grimoirelab/issues/481#issuecomment-1083167608) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
