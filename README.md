@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1030](https://github.com/chaoss/grimoirelab-elk/pull/1030#discussion_r841455276) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-2. 💬 Commented on [#323](https://github.com/chaoss/community/pull/323#issuecomment-1087223246) in [chaoss/community](https://github.com/chaoss/community)
-3. 💬 Commented on [#324](https://github.com/chaoss/community/pull/324#issuecomment-1087222414) in [chaoss/community](https://github.com/chaoss/community)
-4. 💬 Commented on [#323](https://github.com/chaoss/community/pull/323#issuecomment-1087174247) in [chaoss/community](https://github.com/chaoss/community)
-5. 💬 Commented on [#323](https://github.com/chaoss/community/pull/323#issuecomment-1086837192) in [chaoss/community](https://github.com/chaoss/community)
+1. 💬 Commented on [#1045](https://github.com/chaoss/grimoirelab-elk/issues/1045#issuecomment-1087273711) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+2. 💬 Commented on [#1030](https://github.com/chaoss/grimoirelab-elk/pull/1030#discussion_r841455276) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+3. 💬 Commented on [#323](https://github.com/chaoss/community/pull/323#issuecomment-1087223246) in [chaoss/community](https://github.com/chaoss/community)
+4. 💬 Commented on [#324](https://github.com/chaoss/community/pull/324#issuecomment-1087222414) in [chaoss/community](https://github.com/chaoss/community)
+5. 💬 Commented on [#323](https://github.com/chaoss/community/pull/323#issuecomment-1087174247) in [chaoss/community](https://github.com/chaoss/community)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
