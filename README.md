@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#340](https://github.com/chaoss/community/pull/340#issuecomment-1094558342) in [chaoss/community](https://github.com/chaoss/community)
-2. 🎉 Merged PR [#4](https://github.com/vchrombie/blog/pull/4) in [vchrombie/blog](https://github.com/vchrombie/blog)
-3. 💬 Commented on [#332](https://github.com/chaoss/community/pull/332#issuecomment-1093000233) in [chaoss/community](https://github.com/chaoss/community)
-4. ✔️ Closed issue [#1045](https://github.com/chaoss/grimoirelab-elk/issues/1045) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-5. 👍 Approved [#1046](https://github.com/chaoss/grimoirelab-elk/pull/1046#pullrequestreview-934656820) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+1. 💬 Commented on [#467](https://github.com/chaoss/grimoirelab/issues/467#issuecomment-1094570772) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+2. 💬 Commented on [#340](https://github.com/chaoss/community/pull/340#issuecomment-1094558342) in [chaoss/community](https://github.com/chaoss/community)
+3. 🎉 Merged PR [#4](https://github.com/vchrombie/blog/pull/4) in [vchrombie/blog](https://github.com/vchrombie/blog)
+4. 💬 Commented on [#332](https://github.com/chaoss/community/pull/332#issuecomment-1093000233) in [chaoss/community](https://github.com/chaoss/community)
+5. ✔️ Closed issue [#1045](https://github.com/chaoss/grimoirelab-elk/issues/1045) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
