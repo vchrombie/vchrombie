@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [vchrombie/crater](https://github.com/vchrombie/crater) from [crater-invoice/crater](https://github.com/crater-invoice/crater)
-2. 🔱 Forked [vchrombie/chaoss.github](https://github.com/vchrombie/chaoss.github) from [chaoss/.github](https://github.com/chaoss/.github)
-3. 🎉 Merged PR [#206](https://github.com/chaoss/grimoirelab-tutorial/pull/206) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-4. 👍 Approved [#206](https://github.com/chaoss/grimoirelab-tutorial/pull/206#pullrequestreview-939296108) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-5. ✔️ Closed issue [#467](https://github.com/chaoss/grimoirelab/issues/467) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+1. 💬 Commented on [#538](https://github.com/chaoss/grimoirelab-sirmordred/issues/538#issuecomment-1098176987) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+2. 🔱 Forked [vchrombie/crater](https://github.com/vchrombie/crater) from [crater-invoice/crater](https://github.com/crater-invoice/crater)
+3. 🔱 Forked [vchrombie/chaoss.github](https://github.com/vchrombie/chaoss.github) from [chaoss/.github](https://github.com/chaoss/.github)
+4. 🎉 Merged PR [#206](https://github.com/chaoss/grimoirelab-tutorial/pull/206) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+5. 👍 Approved [#206](https://github.com/chaoss/grimoirelab-tutorial/pull/206#pullrequestreview-939296108) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
