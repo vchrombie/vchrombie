@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#89](https://github.com/preset-io/elasticsearch-dbapi/pull/89#issuecomment-1103759353) in [preset-io/elasticsearch-dbapi](https://github.com/preset-io/elasticsearch-dbapi)
-2. 💬 Commented on [#540](https://github.com/chaoss/grimoirelab-sirmordred/pull/540#issuecomment-1102897374) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-3. 🔱 Forked [vchrombie/k8s_data](https://github.com/vchrombie/k8s_data) from [geekygirldawn/k8s_data](https://github.com/geekygirldawn/k8s_data)
-4. 💬 Commented on [#47](https://github.com/chaoss/grimoirelab-toolkit/pull/47#issuecomment-1102880328) in [chaoss/grimoirelab-toolkit](https://github.com/chaoss/grimoirelab-toolkit)
-5. 👍 Approved [#781](https://github.com/chaoss/grimoirelab-perceval/pull/781#pullrequestreview-945988401) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+1. 💬 Commented on [#539](https://github.com/chaoss/grimoirelab-sirmordred/issues/539#issuecomment-1105246560) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+2. 💬 Commented on [#89](https://github.com/preset-io/elasticsearch-dbapi/pull/89#issuecomment-1103759353) in [preset-io/elasticsearch-dbapi](https://github.com/preset-io/elasticsearch-dbapi)
+3. 💬 Commented on [#540](https://github.com/chaoss/grimoirelab-sirmordred/pull/540#issuecomment-1102897374) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+4. 🔱 Forked [vchrombie/k8s_data](https://github.com/vchrombie/k8s_data) from [geekygirldawn/k8s_data](https://github.com/geekygirldawn/k8s_data)
+5. 💬 Commented on [#47](https://github.com/chaoss/grimoirelab-toolkit/pull/47#issuecomment-1102880328) in [chaoss/grimoirelab-toolkit](https://github.com/chaoss/grimoirelab-toolkit)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
