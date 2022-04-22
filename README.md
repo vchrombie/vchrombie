@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#540](https://github.com/chaoss/grimoirelab-sirmordred/pull/540#issuecomment-1105247659) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-2. 💬 Commented on [#539](https://github.com/chaoss/grimoirelab-sirmordred/issues/539#issuecomment-1105246560) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-3. 💬 Commented on [#89](https://github.com/preset-io/elasticsearch-dbapi/pull/89#issuecomment-1103759353) in [preset-io/elasticsearch-dbapi](https://github.com/preset-io/elasticsearch-dbapi)
-4. 💬 Commented on [#540](https://github.com/chaoss/grimoirelab-sirmordred/pull/540#issuecomment-1102897374) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-5. 🔱 Forked [vchrombie/k8s_data](https://github.com/vchrombie/k8s_data) from [geekygirldawn/k8s_data](https://github.com/geekygirldawn/k8s_data)
+1. 💬 Commented on [#424](https://github.com/chaoss/grimoirelab/issues/424#issuecomment-1106367089) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+2. 💬 Commented on [#540](https://github.com/chaoss/grimoirelab-sirmordred/pull/540#issuecomment-1105247659) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+3. 💬 Commented on [#539](https://github.com/chaoss/grimoirelab-sirmordred/issues/539#issuecomment-1105246560) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+4. 💬 Commented on [#89](https://github.com/preset-io/elasticsearch-dbapi/pull/89#issuecomment-1103759353) in [preset-io/elasticsearch-dbapi](https://github.com/preset-io/elasticsearch-dbapi)
+5. 💬 Commented on [#540](https://github.com/chaoss/grimoirelab-sirmordred/pull/540#issuecomment-1102897374) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
