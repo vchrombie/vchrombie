@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#371](https://github.com/chaoss/community/pull/371#issuecomment-1107635218) in [chaoss/community](https://github.com/chaoss/community)
-2. ❌ Closed PR [#373](https://github.com/chaoss/community/pull/373) in [chaoss/community](https://github.com/chaoss/community)
-3. 💬 Commented on [#371](https://github.com/chaoss/community/pull/371#issuecomment-1107624888) in [chaoss/community](https://github.com/chaoss/community)
-4. ❌ Closed PR [#372](https://github.com/chaoss/community/pull/372) in [chaoss/community](https://github.com/chaoss/community)
-5. 💬 Commented on [#372](https://github.com/chaoss/community/pull/372#issuecomment-1107549228) in [chaoss/community](https://github.com/chaoss/community)
+1. 💬 Commented on [#1](https://github.com/Bahmni/crater/pull/1#issuecomment-1108202342) in [Bahmni/crater](https://github.com/Bahmni/crater)
+2. 💬 Commented on [#1](https://github.com/Bahmni/crater/pull/1#issuecomment-1108199508) in [Bahmni/crater](https://github.com/Bahmni/crater)
+3. 💬 Commented on [#371](https://github.com/chaoss/community/pull/371#issuecomment-1107635218) in [chaoss/community](https://github.com/chaoss/community)
+4. ❌ Closed PR [#373](https://github.com/chaoss/community/pull/373) in [chaoss/community](https://github.com/chaoss/community)
+5. 💬 Commented on [#371](https://github.com/chaoss/community/pull/371#issuecomment-1107624888) in [chaoss/community](https://github.com/chaoss/community)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
