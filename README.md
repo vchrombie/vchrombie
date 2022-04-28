@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#484](https://github.com/chaoss/grimoirelab/issues/484#issuecomment-1108315889) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-2. 💬 Commented on [#1](https://github.com/Bahmni/crater/pull/1#issuecomment-1108202342) in [Bahmni/crater](https://github.com/Bahmni/crater)
-3. 💬 Commented on [#1](https://github.com/Bahmni/crater/pull/1#issuecomment-1108199508) in [Bahmni/crater](https://github.com/Bahmni/crater)
-4. 💬 Commented on [#371](https://github.com/chaoss/community/pull/371#issuecomment-1107635218) in [chaoss/community](https://github.com/chaoss/community)
-5. ❌ Closed PR [#373](https://github.com/chaoss/community/pull/373) in [chaoss/community](https://github.com/chaoss/community)
+1. 💬 Commented on [#545](https://github.com/chaoss/grimoirelab-sirmordred/pull/545#discussion_r860488744) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+2. 🔴 Requested 2 change(s) for [#545](https://github.com/chaoss/grimoirelab-sirmordred/pull/545#pullrequestreview-955863224) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+3. 💬 Commented on [#545](https://github.com/chaoss/grimoirelab-sirmordred/pull/545#discussion_r860489204) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+4. 💬 Commented on [#484](https://github.com/chaoss/grimoirelab/issues/484#issuecomment-1108315889) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+5. 💬 Commented on [#1](https://github.com/Bahmni/crater/pull/1#issuecomment-1108202342) in [Bahmni/crater](https://github.com/Bahmni/crater)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
