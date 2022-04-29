@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Bahmni/crater](https://github.com/Bahmni/crater)
-2. 💬 Commented on [#183](https://github.com/chaoss/grimoirelab-tutorial/issues/183#issuecomment-1111904171) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-3. 💬 Commented on [#545](https://github.com/chaoss/grimoirelab-sirmordred/pull/545#discussion_r860488744) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-4. 🔴 Requested 2 change(s) for [#545](https://github.com/chaoss/grimoirelab-sirmordred/pull/545#pullrequestreview-955863224) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-5. 💬 Commented on [#545](https://github.com/chaoss/grimoirelab-sirmordred/pull/545#discussion_r860489204) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+1. 💬 Commented on [#207](https://github.com/chaoss/grimoirelab-tutorial/pull/207#issuecomment-1113113484) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+2. 💬 Commented on [#207](https://github.com/chaoss/grimoirelab-tutorial/pull/207#discussion_r861642543) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+3. 💬 Commented on [#207](https://github.com/chaoss/grimoirelab-tutorial/pull/207#discussion_r861605513) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+4. 💬 Commented on [#207](https://github.com/chaoss/grimoirelab-tutorial/pull/207#discussion_r861617976) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+5. 💬 Commented on [#207](https://github.com/chaoss/grimoirelab-tutorial/pull/207#discussion_r861607216) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
