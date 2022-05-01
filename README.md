@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#209](https://github.com/chaoss/grimoirelab-tutorial/pull/209) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-2. 👍 Approved [#209](https://github.com/chaoss/grimoirelab-tutorial/pull/209#pullrequestreview-958544398) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-3. 💪 Opened PR [#208](https://github.com/chaoss/grimoirelab-tutorial/pull/208) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-4. 💬 Commented on [#540](https://github.com/chaoss/grimoirelab-sirmordred/pull/540#issuecomment-1113994124) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-5. 👍 Approved [#540](https://github.com/chaoss/grimoirelab-sirmordred/pull/540#pullrequestreview-958491552) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+1. 🎉 Merged PR [#210](https://github.com/chaoss/grimoirelab-tutorial/pull/210) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+2. 💪 Opened PR [#210](https://github.com/chaoss/grimoirelab-tutorial/pull/210) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+3. 🎉 Merged PR [#208](https://github.com/chaoss/grimoirelab-tutorial/pull/208) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+4. 🎉 Merged PR [#209](https://github.com/chaoss/grimoirelab-tutorial/pull/209) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+5. 👍 Approved [#209](https://github.com/chaoss/grimoirelab-tutorial/pull/209#pullrequestreview-958544398) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
