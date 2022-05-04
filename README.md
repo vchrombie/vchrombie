@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#376](https://github.com/chaoss/community/pull/376) in [chaoss/community](https://github.com/chaoss/community)
-2. ❌ Closed PR [#1](https://github.com/vchrombie/governance/pull/1) in [vchrombie/governance](https://github.com/vchrombie/governance)
-3. 💪 Opened PR [#1](https://github.com/vchrombie/governance/pull/1) in [vchrombie/governance](https://github.com/vchrombie/governance)
-4. 🎉 Merged PR [#210](https://github.com/chaoss/grimoirelab-tutorial/pull/210) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-5. 💪 Opened PR [#210](https://github.com/chaoss/grimoirelab-tutorial/pull/210) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+1. ⭐ Starred [ICT4H/openmrs-atomfeed-publisher](https://github.com/ICT4H/openmrs-atomfeed-publisher)
+2. 💪 Opened PR [#376](https://github.com/chaoss/community/pull/376) in [chaoss/community](https://github.com/chaoss/community)
+3. ❌ Closed PR [#1](https://github.com/vchrombie/governance/pull/1) in [vchrombie/governance](https://github.com/vchrombie/governance)
+4. 💪 Opened PR [#1](https://github.com/vchrombie/governance/pull/1) in [vchrombie/governance](https://github.com/vchrombie/governance)
+5. 🎉 Merged PR [#210](https://github.com/chaoss/grimoirelab-tutorial/pull/210) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
