@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [vchrombie/openmrs-atomfeed-publisher](https://github.com/vchrombie/openmrs-atomfeed-publisher) from [ICT4H/openmrs-atomfeed-publisher](https://github.com/ICT4H/openmrs-atomfeed-publisher)
-2. ⭐ Starred [ICT4H/openmrs-atomfeed-publisher](https://github.com/ICT4H/openmrs-atomfeed-publisher)
-3. 💪 Opened PR [#376](https://github.com/chaoss/community/pull/376) in [chaoss/community](https://github.com/chaoss/community)
-4. ❌ Closed PR [#1](https://github.com/vchrombie/governance/pull/1) in [vchrombie/governance](https://github.com/vchrombie/governance)
-5. 💪 Opened PR [#1](https://github.com/vchrombie/governance/pull/1) in [vchrombie/governance](https://github.com/vchrombie/governance)
+1. 💬 Commented on [#106](https://github.com/Bahmni/bahmni-package/pull/106#issuecomment-1121372992) in [Bahmni/bahmni-package](https://github.com/Bahmni/bahmni-package)
+2. 💪 Opened PR [#106](https://github.com/Bahmni/bahmni-package/pull/106) in [Bahmni/bahmni-package](https://github.com/Bahmni/bahmni-package)
+3. 🔱 Forked [vchrombie/openmrs-atomfeed-publisher](https://github.com/vchrombie/openmrs-atomfeed-publisher) from [ICT4H/openmrs-atomfeed-publisher](https://github.com/ICT4H/openmrs-atomfeed-publisher)
+4. ⭐ Starred [ICT4H/openmrs-atomfeed-publisher](https://github.com/ICT4H/openmrs-atomfeed-publisher)
+5. 💪 Opened PR [#376](https://github.com/chaoss/community/pull/376) in [chaoss/community](https://github.com/chaoss/community)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
