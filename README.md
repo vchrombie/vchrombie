@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#538](https://github.com/chaoss/grimoirelab-sirmordred/issues/538) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-2. 🎉 Merged PR [#540](https://github.com/chaoss/grimoirelab-sirmordred/pull/540) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-3. 💬 Commented on [#357](https://github.com/chaoss/grimoirelab/issues/357#issuecomment-1123255542) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-4. 💬 Commented on [#540](https://github.com/chaoss/grimoirelab-sirmordred/pull/540#issuecomment-1123244840) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-5. ❗️ Opened issue [#1047](https://github.com/chaoss/grimoirelab-elk/issues/1047) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+1. ❌ Closed PR [#1](https://github.com/Bahmni/crater/pull/1) in [Bahmni/crater](https://github.com/Bahmni/crater)
+2. 💬 Commented on [#1](https://github.com/Bahmni/crater/pull/1#issuecomment-1125681084) in [Bahmni/crater](https://github.com/Bahmni/crater)
+3. 💬 Commented on [#107](https://github.com/Bahmni/bahmni-package/pull/107#issuecomment-1125679300) in [Bahmni/bahmni-package](https://github.com/Bahmni/bahmni-package)
+4. 💪 Opened PR [#107](https://github.com/Bahmni/bahmni-package/pull/107) in [Bahmni/bahmni-package](https://github.com/Bahmni/bahmni-package)
+5. ✔️ Closed issue [#538](https://github.com/chaoss/grimoirelab-sirmordred/issues/538) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
