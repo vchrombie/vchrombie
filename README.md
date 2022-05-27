@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#320](https://github.com/chaoss/community/issues/320#issuecomment-1139373915) in [chaoss/community](https://github.com/chaoss/community)
-2. 💪 Opened PR [#387](https://github.com/chaoss/community/pull/387) in [chaoss/community](https://github.com/chaoss/community)
-3. 💬 Commented on [#64](https://github.com/chaoss/grimoirelab-perceval-mozilla/pull/64#issuecomment-1139313778) in [chaoss/grimoirelab-perceval-mozilla](https://github.com/chaoss/grimoirelab-perceval-mozilla)
-4. 💬 Commented on [#493](https://github.com/chaoss/grimoirelab/pull/493#issuecomment-1139306761) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-5. 💬 Commented on [#493](https://github.com/chaoss/grimoirelab/pull/493#issuecomment-1139303451) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+1. 💬 Commented on [#64](https://github.com/chaoss/grimoirelab-perceval-mozilla/pull/64#issuecomment-1139476841) in [chaoss/grimoirelab-perceval-mozilla](https://github.com/chaoss/grimoirelab-perceval-mozilla)
+2. 💬 Commented on [#320](https://github.com/chaoss/community/issues/320#issuecomment-1139373915) in [chaoss/community](https://github.com/chaoss/community)
+3. 💪 Opened PR [#387](https://github.com/chaoss/community/pull/387) in [chaoss/community](https://github.com/chaoss/community)
+4. 💬 Commented on [#64](https://github.com/chaoss/grimoirelab-perceval-mozilla/pull/64#issuecomment-1139313778) in [chaoss/grimoirelab-perceval-mozilla](https://github.com/chaoss/grimoirelab-perceval-mozilla)
+5. 💬 Commented on [#493](https://github.com/chaoss/grimoirelab/pull/493#issuecomment-1139306761) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
