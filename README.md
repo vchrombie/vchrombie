@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#460](https://github.com/chaoss/grimoirelab/issues/460) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-2. 💬 Commented on [#460](https://github.com/chaoss/grimoirelab/issues/460#issuecomment-1142517722) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-3. 💬 Commented on [#1058](https://github.com/chaoss/grimoirelab-elk/pull/1058#issuecomment-1140376590) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-4. 💬 Commented on [#51](https://github.com/opensearch-project/opensearch-dsl-py/pull/51#issuecomment-1140188589) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
-5. 💬 Commented on [#64](https://github.com/chaoss/grimoirelab-perceval-mozilla/pull/64#issuecomment-1139476841) in [chaoss/grimoirelab-perceval-mozilla](https://github.com/chaoss/grimoirelab-perceval-mozilla)
+1. 💬 Commented on [#46](https://github.com/Bitergia/release-tools/issues/46#issuecomment-1144428708) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+2. 💬 Commented on [#34](https://github.com/opensearch-project/opensearch-dsl-py/pull/34#issuecomment-1144427292) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
+3. ❌ Closed PR [#35](https://github.com/opensearch-project/opensearch-dsl-py/pull/35) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
+4. 💬 Commented on [#35](https://github.com/opensearch-project/opensearch-dsl-py/pull/35#issuecomment-1144426228) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
+5. ✔️ Closed issue [#460](https://github.com/chaoss/grimoirelab/issues/460) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
