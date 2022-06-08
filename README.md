@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#553](https://github.com/chaoss/grimoirelab-sirmordred/pull/553#issuecomment-1148392736) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
-2. 🎉 Merged PR [#5](https://github.com/vchrombie/blog/pull/5) in [vchrombie/blog](https://github.com/vchrombie/blog)
-3. 💬 Commented on [#46](https://github.com/Bitergia/release-tools/issues/46#issuecomment-1144428708) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
-4. 💬 Commented on [#34](https://github.com/opensearch-project/opensearch-dsl-py/pull/34#issuecomment-1144427292) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
-5. ❌ Closed PR [#35](https://github.com/opensearch-project/opensearch-dsl-py/pull/35) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
+1. 💬 Commented on [#218](https://github.com/chaoss/grimoirelab/issues/218#issuecomment-1149565190) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+2. 💬 Commented on [#553](https://github.com/chaoss/grimoirelab-sirmordred/pull/553#issuecomment-1148392736) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+3. 🎉 Merged PR [#5](https://github.com/vchrombie/blog/pull/5) in [vchrombie/blog](https://github.com/vchrombie/blog)
+4. 💬 Commented on [#46](https://github.com/Bitergia/release-tools/issues/46#issuecomment-1144428708) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+5. 💬 Commented on [#34](https://github.com/opensearch-project/opensearch-dsl-py/pull/34#issuecomment-1144427292) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
