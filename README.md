@@ -14,10 +14,10 @@ I'm Venu. I love building tools that make boring tasks easy.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [maxprilutskiy/side-project-kit](https://github.com/maxprilutskiy/side-project-kit)
-2. 💬 Commented on [#495](https://github.com/chaoss/grimoirelab/issues/495#issuecomment-1150832553) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-3. 💬 Commented on [#495](https://github.com/chaoss/grimoirelab/issues/495#issuecomment-1149644013) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-4. 💬 Commented on [#212](https://github.com/chaoss/grimoirelab-tutorial/pull/212#issuecomment-1149616157) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-5. 🎉 Merged PR [#211](https://github.com/chaoss/grimoirelab-tutorial/pull/211) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+2. ⭐ Starred [maxprilutskiy/side-project-kit](https://github.com/maxprilutskiy/side-project-kit)
+3. 💬 Commented on [#495](https://github.com/chaoss/grimoirelab/issues/495#issuecomment-1150832553) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+4. 💬 Commented on [#495](https://github.com/chaoss/grimoirelab/issues/495#issuecomment-1149644013) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+5. 💬 Commented on [#212](https://github.com/chaoss/grimoirelab-tutorial/pull/212#issuecomment-1149616157) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
