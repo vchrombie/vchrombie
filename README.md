@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#6](https://github.com/vchrombie/blog/pull/6) in [vchrombie/blog](https://github.com/vchrombie/blog)
-2. ⭐ Starred [maxprilutskiy/side-project-kit](https://github.com/maxprilutskiy/side-project-kit)
-3. ⭐ Starred [maxprilutskiy/side-project-kit](https://github.com/maxprilutskiy/side-project-kit)
-4. 💬 Commented on [#495](https://github.com/chaoss/grimoirelab/issues/495#issuecomment-1150832553) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-5. 💬 Commented on [#495](https://github.com/chaoss/grimoirelab/issues/495#issuecomment-1149644013) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+1. ❗️ Opened issue [#49](https://github.com/Bitergia/release-tools/issues/49) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+2. 💬 Commented on [#403](https://github.com/chaoss/grimoirelab/issues/403#issuecomment-1159629851) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+3. 🎉 Merged PR [#6](https://github.com/vchrombie/blog/pull/6) in [vchrombie/blog](https://github.com/vchrombie/blog)
+4. ⭐ Starred [maxprilutskiy/side-project-kit](https://github.com/maxprilutskiy/side-project-kit)
+5. ⭐ Starred [maxprilutskiy/side-project-kit](https://github.com/maxprilutskiy/side-project-kit)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
