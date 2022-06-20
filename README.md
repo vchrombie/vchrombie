@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#49](https://github.com/Bitergia/release-tools/issues/49) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
-2. 💬 Commented on [#403](https://github.com/chaoss/grimoirelab/issues/403#issuecomment-1159629851) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-3. 🎉 Merged PR [#6](https://github.com/vchrombie/blog/pull/6) in [vchrombie/blog](https://github.com/vchrombie/blog)
-4. ⭐ Starred [maxprilutskiy/side-project-kit](https://github.com/maxprilutskiy/side-project-kit)
-5. ⭐ Starred [maxprilutskiy/side-project-kit](https://github.com/maxprilutskiy/side-project-kit)
+1. 💬 Commented on [#50](https://github.com/Bitergia/release-tools/pull/50#issuecomment-1160201133) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+2. 💪 Opened PR [#50](https://github.com/Bitergia/release-tools/pull/50) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+3. ❗️ Opened issue [#49](https://github.com/Bitergia/release-tools/issues/49) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+4. 💬 Commented on [#403](https://github.com/chaoss/grimoirelab/issues/403#issuecomment-1159629851) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+5. 🎉 Merged PR [#6](https://github.com/vchrombie/blog/pull/6) in [vchrombie/blog](https://github.com/vchrombie/blog)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
