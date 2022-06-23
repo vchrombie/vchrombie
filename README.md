@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [opensearch-project/i18n-plugin](https://github.com/opensearch-project/i18n-plugin)
-2. 💬 Commented on [#50](https://github.com/Bitergia/release-tools/pull/50#issuecomment-1161247981) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
-3. 💬 Commented on [#50](https://github.com/Bitergia/release-tools/pull/50#issuecomment-1160201133) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
-4. 💪 Opened PR [#50](https://github.com/Bitergia/release-tools/pull/50) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
-5. ❗️ Opened issue [#49](https://github.com/Bitergia/release-tools/issues/49) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+1. 💪 Opened PR [#2](https://github.com/Bahmni/crater/pull/2) in [Bahmni/crater](https://github.com/Bahmni/crater)
+2. ⭐ Starred [opensearch-project/i18n-plugin](https://github.com/opensearch-project/i18n-plugin)
+3. 💬 Commented on [#50](https://github.com/Bitergia/release-tools/pull/50#issuecomment-1161247981) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+4. 💬 Commented on [#50](https://github.com/Bitergia/release-tools/pull/50#issuecomment-1160201133) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+5. 💪 Opened PR [#50](https://github.com/Bitergia/release-tools/pull/50) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
