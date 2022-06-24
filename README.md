@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1064](https://github.com/chaoss/grimoirelab-elk/pull/1064#pullrequestreview-1017353178) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
-2. 💪 Opened PR [#2](https://github.com/Bahmni/crater/pull/2) in [Bahmni/crater](https://github.com/Bahmni/crater)
-3. ⭐ Starred [opensearch-project/i18n-plugin](https://github.com/opensearch-project/i18n-plugin)
-4. 💬 Commented on [#50](https://github.com/Bitergia/release-tools/pull/50#issuecomment-1161247981) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
-5. 💬 Commented on [#50](https://github.com/Bitergia/release-tools/pull/50#issuecomment-1160201133) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+1. 💬 Commented on [#500](https://github.com/chaoss/grimoirelab/issues/500#issuecomment-1165383414) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+2. 👍 Approved [#1064](https://github.com/chaoss/grimoirelab-elk/pull/1064#pullrequestreview-1017353178) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+3. 💪 Opened PR [#2](https://github.com/Bahmni/crater/pull/2) in [Bahmni/crater](https://github.com/Bahmni/crater)
+4. ⭐ Starred [opensearch-project/i18n-plugin](https://github.com/opensearch-project/i18n-plugin)
+5. 💬 Commented on [#50](https://github.com/Bitergia/release-tools/pull/50#issuecomment-1161247981) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
