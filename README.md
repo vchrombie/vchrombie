@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#977](https://github.com/crater-invoice/crater/issues/977) in [crater-invoice/crater](https://github.com/crater-invoice/crater)
-2. 🎉 Merged PR [#3](https://github.com/Bahmni/crater/pull/3) in [Bahmni/crater](https://github.com/Bahmni/crater)
-3. 💬 Commented on [#4](https://github.com/Bahmni/crater/pull/4#issuecomment-1169698923) in [Bahmni/crater](https://github.com/Bahmni/crater)
-4. 💬 Commented on [#4](https://github.com/Bahmni/crater/pull/4#issuecomment-1169694490) in [Bahmni/crater](https://github.com/Bahmni/crater)
-5. 💪 Opened PR [#4](https://github.com/Bahmni/crater/pull/4) in [Bahmni/crater](https://github.com/Bahmni/crater)
+1. 💬 Commented on [#50](https://github.com/Bitergia/release-tools/pull/50#issuecomment-1170388659) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+2. 💬 Commented on [#50](https://github.com/Bitergia/release-tools/pull/50#discussion_r910313387) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+3. ❗️ Opened issue [#977](https://github.com/crater-invoice/crater/issues/977) in [crater-invoice/crater](https://github.com/crater-invoice/crater)
+4. 🎉 Merged PR [#3](https://github.com/Bahmni/crater/pull/3) in [Bahmni/crater](https://github.com/Bahmni/crater)
+5. 💬 Commented on [#4](https://github.com/Bahmni/crater/pull/4#issuecomment-1169698923) in [Bahmni/crater](https://github.com/Bahmni/crater)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
