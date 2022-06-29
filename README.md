@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4](https://github.com/Bahmni/crater/pull/4#issuecomment-1169698923) in [Bahmni/crater](https://github.com/Bahmni/crater)
-2. 💬 Commented on [#4](https://github.com/Bahmni/crater/pull/4#issuecomment-1169694490) in [Bahmni/crater](https://github.com/Bahmni/crater)
-3. 💪 Opened PR [#4](https://github.com/Bahmni/crater/pull/4) in [Bahmni/crater](https://github.com/Bahmni/crater)
-4. 💬 Commented on [#3](https://github.com/Bahmni/crater/pull/3#issuecomment-1169683205) in [Bahmni/crater](https://github.com/Bahmni/crater)
-5. 💪 Opened PR [#3](https://github.com/Bahmni/crater/pull/3) in [Bahmni/crater](https://github.com/Bahmni/crater)
+1. 🎉 Merged PR [#3](https://github.com/Bahmni/crater/pull/3) in [Bahmni/crater](https://github.com/Bahmni/crater)
+2. 💬 Commented on [#4](https://github.com/Bahmni/crater/pull/4#issuecomment-1169698923) in [Bahmni/crater](https://github.com/Bahmni/crater)
+3. 💬 Commented on [#4](https://github.com/Bahmni/crater/pull/4#issuecomment-1169694490) in [Bahmni/crater](https://github.com/Bahmni/crater)
+4. 💪 Opened PR [#4](https://github.com/Bahmni/crater/pull/4) in [Bahmni/crater](https://github.com/Bahmni/crater)
+5. 💬 Commented on [#3](https://github.com/Bahmni/crater/pull/3#issuecomment-1169683205) in [Bahmni/crater](https://github.com/Bahmni/crater)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
