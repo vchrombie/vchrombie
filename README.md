@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#50](https://github.com/Bitergia/release-tools/pull/50#issuecomment-1174505694) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
-2. 💬 Commented on [#4](https://github.com/Bahmni/crater/pull/4#issuecomment-1172999115) in [Bahmni/crater](https://github.com/Bahmni/crater)
-3. 💬 Commented on [#50](https://github.com/Bitergia/release-tools/pull/50#issuecomment-1170388659) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
-4. 💬 Commented on [#50](https://github.com/Bitergia/release-tools/pull/50#discussion_r910313387) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
-5. ❗️ Opened issue [#977](https://github.com/crater-invoice/crater/issues/977) in [crater-invoice/crater](https://github.com/crater-invoice/crater)
+1. 💬 Commented on [#500](https://github.com/chaoss/grimoirelab/issues/500#issuecomment-1175326145) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+2. 💬 Commented on [#50](https://github.com/Bitergia/release-tools/pull/50#issuecomment-1174505694) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+3. 💬 Commented on [#4](https://github.com/Bahmni/crater/pull/4#issuecomment-1172999115) in [Bahmni/crater](https://github.com/Bahmni/crater)
+4. 💬 Commented on [#50](https://github.com/Bitergia/release-tools/pull/50#issuecomment-1170388659) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+5. 💬 Commented on [#50](https://github.com/Bitergia/release-tools/pull/50#discussion_r910313387) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
