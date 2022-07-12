@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#3](https://github.com/chaoss/grimoirelab-github-actions/issues/3) in [chaoss/grimoirelab-github-actions](https://github.com/chaoss/grimoirelab-github-actions)
-2. 💬 Commented on [#5](https://github.com/Bahmni/crater/pull/5#issuecomment-1181385397) in [Bahmni/crater](https://github.com/Bahmni/crater)
-3. 💬 Commented on [#5](https://github.com/Bahmni/crater/pull/5#issuecomment-1181374016) in [Bahmni/crater](https://github.com/Bahmni/crater)
-4. 💬 Commented on [#5](https://github.com/Bahmni/crater/pull/5#discussion_r918596467) in [Bahmni/crater](https://github.com/Bahmni/crater)
-5. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+1. 🎉 Merged PR [#8](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/8) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+2. 💪 Opened PR [#8](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/8) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+3. ❗️ Opened issue [#3](https://github.com/chaoss/grimoirelab-github-actions/issues/3) in [chaoss/grimoirelab-github-actions](https://github.com/chaoss/grimoirelab-github-actions)
+4. 💬 Commented on [#5](https://github.com/Bahmni/crater/pull/5#issuecomment-1181385397) in [Bahmni/crater](https://github.com/Bahmni/crater)
+5. 💬 Commented on [#5](https://github.com/Bahmni/crater/pull/5#issuecomment-1181374016) in [Bahmni/crater](https://github.com/Bahmni/crater)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
