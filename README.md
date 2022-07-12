@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#31](https://github.com/opensearch-project/opensearch-dsl-py/issues/31#issuecomment-1182263451) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
-2. 💬 Commented on [#31](https://github.com/opensearch-project/opensearch-dsl-py/issues/31#issuecomment-1182248592) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
-3. 💬 Commented on [#3](https://github.com/chaoss/grimoirelab-github-actions/issues/3#issuecomment-1182223991) in [chaoss/grimoirelab-github-actions](https://github.com/chaoss/grimoirelab-github-actions)
-4. 💬 Commented on [#34](https://github.com/opensearch-project/opensearch-dsl-py/pull/34#issuecomment-1182207216) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
-5. 💬 Commented on [#10](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/10#issuecomment-1182003276) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+1. 💬 Commented on [#179](https://github.com/opensearch-project/opensearch-py/pull/179#issuecomment-1182395143) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
+2. 💪 Opened PR [#179](https://github.com/opensearch-project/opensearch-py/pull/179) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
+3. 💬 Commented on [#34](https://github.com/opensearch-project/opensearch-dsl-py/pull/34#issuecomment-1182361008) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
+4. 💬 Commented on [#31](https://github.com/opensearch-project/opensearch-dsl-py/issues/31#issuecomment-1182263451) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
+5. 💬 Commented on [#31](https://github.com/opensearch-project/opensearch-dsl-py/issues/31#issuecomment-1182248592) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
