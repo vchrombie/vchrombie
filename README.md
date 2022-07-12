@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#5](https://github.com/Bahmni/crater/pull/5#discussion_r918556966) in [Bahmni/crater](https://github.com/Bahmni/crater)
-2. 💪 Opened PR [#5](https://github.com/Bahmni/crater/pull/5) in [Bahmni/crater](https://github.com/Bahmni/crater)
-3. 💪 Opened PR [#25](https://github.com/BahmniIndiaDistro/helm-umbrella-chart/pull/25) in [BahmniIndiaDistro/helm-umbrella-chart](https://github.com/BahmniIndiaDistro/helm-umbrella-chart)
-4. 💬 Commented on [#4](https://github.com/Bahmni/crater/pull/4#issuecomment-1177088247) in [Bahmni/crater](https://github.com/Bahmni/crater)
-5. 💬 Commented on [#500](https://github.com/chaoss/grimoirelab/issues/500#issuecomment-1175326145) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+1. 💬 Commented on [#5](https://github.com/Bahmni/crater/pull/5#issuecomment-1181374016) in [Bahmni/crater](https://github.com/Bahmni/crater)
+2. 💬 Commented on [#5](https://github.com/Bahmni/crater/pull/5#discussion_r918596467) in [Bahmni/crater](https://github.com/Bahmni/crater)
+3. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+4. ⭐ Starred [rough-stuff/rough](https://github.com/rough-stuff/rough)
+5. 💬 Commented on [#5](https://github.com/Bahmni/crater/pull/5#discussion_r918556966) in [Bahmni/crater](https://github.com/Bahmni/crater)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
