@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#12](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/12) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
-2. 💪 Opened PR [#12](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/12) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
-3. 💬 Commented on [#479](https://github.com/chaoss/grimoirelab/issues/479#issuecomment-1182787971) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-4. 💬 Commented on [#31](https://github.com/opensearch-project/opensearch-dsl-py/issues/31#issuecomment-1182786228) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
-5. 💬 Commented on [#179](https://github.com/opensearch-project/opensearch-py/pull/179#issuecomment-1182395143) in [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py)
+1. 💬 Commented on [#500](https://github.com/chaoss/grimoirelab/issues/500#issuecomment-1183113758) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+2. 🎉 Merged PR [#12](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/12) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+3. 💪 Opened PR [#12](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/12) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+4. 💬 Commented on [#479](https://github.com/chaoss/grimoirelab/issues/479#issuecomment-1182787971) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+5. 💬 Commented on [#31](https://github.com/opensearch-project/opensearch-dsl-py/issues/31#issuecomment-1182786228) in [opensearch-project/opensearch-dsl-py](https://github.com/opensearch-project/opensearch-dsl-py)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
