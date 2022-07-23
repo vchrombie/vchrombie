@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf)
-2. ⭐ Starred [in-toto/in-toto](https://github.com/in-toto/in-toto)
-3. 💪 Opened PR [#6](https://github.com/Bahmni/crater/pull/6) in [Bahmni/crater](https://github.com/Bahmni/crater)
-4. 💬 Commented on [#114](https://github.com/Bahmni/bahmni-package/pull/114#issuecomment-1186838204) in [Bahmni/bahmni-package](https://github.com/Bahmni/bahmni-package)
-5. 💬 Commented on [#114](https://github.com/Bahmni/bahmni-package/pull/114#discussion_r923007717) in [Bahmni/bahmni-package](https://github.com/Bahmni/bahmni-package)
+1. ⭐ Starred [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
+2. ⭐ Starred [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf)
+3. ⭐ Starred [in-toto/in-toto](https://github.com/in-toto/in-toto)
+4. 💪 Opened PR [#6](https://github.com/Bahmni/crater/pull/6) in [Bahmni/crater](https://github.com/Bahmni/crater)
+5. 💬 Commented on [#114](https://github.com/Bahmni/bahmni-package/pull/114#issuecomment-1186838204) in [Bahmni/bahmni-package](https://github.com/Bahmni/bahmni-package)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
