@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
-2. ⭐ Starred [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf)
-3. ⭐ Starred [in-toto/in-toto](https://github.com/in-toto/in-toto)
-4. 💪 Opened PR [#6](https://github.com/Bahmni/crater/pull/6) in [Bahmni/crater](https://github.com/Bahmni/crater)
-5. 💬 Commented on [#114](https://github.com/Bahmni/bahmni-package/pull/114#issuecomment-1186838204) in [Bahmni/bahmni-package](https://github.com/Bahmni/bahmni-package)
+1. 💬 Commented on [#54](https://github.com/Bitergia/release-tools/pull/54#issuecomment-1193644533) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+2. 💪 Opened PR [#54](https://github.com/Bitergia/release-tools/pull/54) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+3. ✔️ Closed issue [#3](https://github.com/chaoss/grimoirelab-github-actions/issues/3) in [chaoss/grimoirelab-github-actions](https://github.com/chaoss/grimoirelab-github-actions)
+4. 💬 Commented on [#3](https://github.com/chaoss/grimoirelab-github-actions/issues/3#issuecomment-1193634631) in [chaoss/grimoirelab-github-actions](https://github.com/chaoss/grimoirelab-github-actions)
+5. 💬 Commented on [#560](https://github.com/chaoss/grimoirelab-sirmordred/issues/560#issuecomment-1193632576) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
