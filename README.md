@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#54](https://github.com/Bitergia/release-tools/pull/54#issuecomment-1193644533) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
-2. 💪 Opened PR [#54](https://github.com/Bitergia/release-tools/pull/54) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
-3. ✔️ Closed issue [#3](https://github.com/chaoss/grimoirelab-github-actions/issues/3) in [chaoss/grimoirelab-github-actions](https://github.com/chaoss/grimoirelab-github-actions)
-4. 💬 Commented on [#3](https://github.com/chaoss/grimoirelab-github-actions/issues/3#issuecomment-1193634631) in [chaoss/grimoirelab-github-actions](https://github.com/chaoss/grimoirelab-github-actions)
-5. 💬 Commented on [#560](https://github.com/chaoss/grimoirelab-sirmordred/issues/560#issuecomment-1193632576) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+1. 💬 Commented on [#991](https://github.com/crater-invoice/crater/issues/991#issuecomment-1195014808) in [crater-invoice/crater](https://github.com/crater-invoice/crater)
+2. 💬 Commented on [#54](https://github.com/Bitergia/release-tools/pull/54#issuecomment-1193644533) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+3. 💪 Opened PR [#54](https://github.com/Bitergia/release-tools/pull/54) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
+4. ✔️ Closed issue [#3](https://github.com/chaoss/grimoirelab-github-actions/issues/3) in [chaoss/grimoirelab-github-actions](https://github.com/chaoss/grimoirelab-github-actions)
+5. 💬 Commented on [#3](https://github.com/chaoss/grimoirelab-github-actions/issues/3#issuecomment-1193634631) in [chaoss/grimoirelab-github-actions](https://github.com/chaoss/grimoirelab-github-actions)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
