@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#7](https://github.com/Bahmni/crater/pull/7) in [Bahmni/crater](https://github.com/Bahmni/crater)
-2. 💬 Commented on [#991](https://github.com/crater-invoice/crater/issues/991#issuecomment-1195014808) in [crater-invoice/crater](https://github.com/crater-invoice/crater)
-3. 💬 Commented on [#54](https://github.com/Bitergia/release-tools/pull/54#issuecomment-1193644533) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
-4. 💪 Opened PR [#54](https://github.com/Bitergia/release-tools/pull/54) in [Bitergia/release-tools](https://github.com/Bitergia/release-tools)
-5. ✔️ Closed issue [#3](https://github.com/chaoss/grimoirelab-github-actions/issues/3) in [chaoss/grimoirelab-github-actions](https://github.com/chaoss/grimoirelab-github-actions)
+1. 💬 Commented on [#6](https://github.com/Bahmni/crater/pull/6#discussion_r931083851) in [Bahmni/crater](https://github.com/Bahmni/crater)
+2. 💬 Commented on [#6](https://github.com/Bahmni/crater/pull/6#discussion_r931082702) in [Bahmni/crater](https://github.com/Bahmni/crater)
+3. 💬 Commented on [#114](https://github.com/Bahmni/bahmni-package/pull/114#issuecomment-1196754129) in [Bahmni/bahmni-package](https://github.com/Bahmni/bahmni-package)
+4. 💬 Commented on [#114](https://github.com/Bahmni/bahmni-package/pull/114#discussion_r931053172) in [Bahmni/bahmni-package](https://github.com/Bahmni/bahmni-package)
+5. 💬 Commented on [#114](https://github.com/Bahmni/bahmni-package/pull/114#discussion_r931052538) in [Bahmni/bahmni-package](https://github.com/Bahmni/bahmni-package)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
