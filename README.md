@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [vchrombie/blog](https://github.com/vchrombie/blog)
-2. 💬 Commented on [#8](https://github.com/Bahmni/crater/pull/8#issuecomment-1203993050) in [Bahmni/crater](https://github.com/Bahmni/crater)
-3. 💬 Commented on [#1](https://github.com/Bahmni/crater-extensions/pull/1#issuecomment-1203990658) in [Bahmni/crater-extensions](https://github.com/Bahmni/crater-extensions)
-4. 💬 Commented on [#2](https://github.com/Bahmni/crater-extensions/pull/2#issuecomment-1203989480) in [Bahmni/crater-extensions](https://github.com/Bahmni/crater-extensions)
-5. 🎉 Merged PR [#13](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/13) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+1. 🎉 Merged PR [#4](https://github.com/vchrombie/blog/pull/4) in [vchrombie/blog](https://github.com/vchrombie/blog)
+2. 🎉 Merged PR [#2](https://github.com/vchrombie/blog/pull/2) in [vchrombie/blog](https://github.com/vchrombie/blog)
+3. 🎉 Merged PR [#1](https://github.com/vchrombie/blog/pull/1) in [vchrombie/blog](https://github.com/vchrombie/blog)
+4. 📔 Created new repository [vchrombie/blog](https://github.com/vchrombie/blog)
+5. 💬 Commented on [#8](https://github.com/Bahmni/crater/pull/8#issuecomment-1203993050) in [Bahmni/crater](https://github.com/Bahmni/crater)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
