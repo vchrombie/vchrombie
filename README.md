@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#7](https://github.com/vchrombie/blog/pull/7) in [vchrombie/blog](https://github.com/vchrombie/blog)
-2. 🎉 Merged PR [#8](https://github.com/vchrombie/blog/pull/8) in [vchrombie/blog](https://github.com/vchrombie/blog)
-3. 🎉 Merged PR [#10](https://github.com/vchrombie/blog/pull/10) in [vchrombie/blog](https://github.com/vchrombie/blog)
-4. 🎉 Merged PR [#9](https://github.com/vchrombie/blog/pull/9) in [vchrombie/blog](https://github.com/vchrombie/blog)
-5. 🎉 Merged PR [#6](https://github.com/vchrombie/blog/pull/6) in [vchrombie/blog](https://github.com/vchrombie/blog)
+1. ⭐ Starred [unifyai/ivy](https://github.com/unifyai/ivy)
+2. 🎉 Merged PR [#7](https://github.com/vchrombie/blog/pull/7) in [vchrombie/blog](https://github.com/vchrombie/blog)
+3. 🎉 Merged PR [#8](https://github.com/vchrombie/blog/pull/8) in [vchrombie/blog](https://github.com/vchrombie/blog)
+4. 🎉 Merged PR [#10](https://github.com/vchrombie/blog/pull/10) in [vchrombie/blog](https://github.com/vchrombie/blog)
+5. 🎉 Merged PR [#9](https://github.com/vchrombie/blog/pull/9) in [vchrombie/blog](https://github.com/vchrombie/blog)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
