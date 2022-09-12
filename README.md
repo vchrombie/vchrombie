@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [vchrombie/in-toto](https://github.com/vchrombie/in-toto) from [in-toto/in-toto](https://github.com/in-toto/in-toto)
-2. ⭐ Starred [zerodha/pykiteconnect](https://github.com/zerodha/pykiteconnect)
-3. ⭐ Starred [unifyai/ivy](https://github.com/unifyai/ivy)
-4. 🎉 Merged PR [#7](https://github.com/vchrombie/blog/pull/7) in [vchrombie/blog](https://github.com/vchrombie/blog)
-5. 🎉 Merged PR [#8](https://github.com/vchrombie/blog/pull/8) in [vchrombie/blog](https://github.com/vchrombie/blog)
+1. 🎉 Merged PR [#22](https://github.com/vchrombie/blog/pull/22) in [vchrombie/blog](https://github.com/vchrombie/blog)
+2. 🎉 Merged PR [#16](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/16) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+3. 👍 Approved [#16](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/16#pullrequestreview-1103462527) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+4. 🔱 Forked [vchrombie/in-toto](https://github.com/vchrombie/in-toto) from [in-toto/in-toto](https://github.com/in-toto/in-toto)
+5. ⭐ Starred [zerodha/pykiteconnect](https://github.com/zerodha/pykiteconnect)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
