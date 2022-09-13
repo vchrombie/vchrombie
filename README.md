@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#22](https://github.com/vchrombie/blog/pull/22) in [vchrombie/blog](https://github.com/vchrombie/blog)
-2. 🎉 Merged PR [#16](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/16) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
-3. 👍 Approved [#16](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/16#pullrequestreview-1103462527) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
-4. 🔱 Forked [vchrombie/in-toto](https://github.com/vchrombie/in-toto) from [in-toto/in-toto](https://github.com/in-toto/in-toto)
-5. ⭐ Starred [zerodha/pykiteconnect](https://github.com/zerodha/pykiteconnect)
+1. 💬 Commented on [#1](https://github.com/Bahmni/crater-atomfeed/pull/1#issuecomment-1245498591) in [Bahmni/crater-atomfeed](https://github.com/Bahmni/crater-atomfeed)
+2. 🎉 Merged PR [#22](https://github.com/vchrombie/blog/pull/22) in [vchrombie/blog](https://github.com/vchrombie/blog)
+3. 🎉 Merged PR [#16](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/16) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+4. 👍 Approved [#16](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/16#pullrequestreview-1103462527) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+5. 🔱 Forked [vchrombie/in-toto](https://github.com/vchrombie/in-toto) from [in-toto/in-toto](https://github.com/in-toto/in-toto)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
