@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1](https://github.com/Bahmni/crater-atomfeed/pull/1#issuecomment-1245498591) in [Bahmni/crater-atomfeed](https://github.com/Bahmni/crater-atomfeed)
-2. 🎉 Merged PR [#22](https://github.com/vchrombie/blog/pull/22) in [vchrombie/blog](https://github.com/vchrombie/blog)
-3. 🎉 Merged PR [#16](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/16) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
-4. 👍 Approved [#16](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/16#pullrequestreview-1103462527) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
-5. 🔱 Forked [vchrombie/in-toto](https://github.com/vchrombie/in-toto) from [in-toto/in-toto](https://github.com/in-toto/in-toto)
+1. 💬 Commented on [#349](https://github.com/chaoss/grimoirelab/issues/349#issuecomment-1247012837) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+2. 💬 Commented on [#1073](https://github.com/chaoss/grimoirelab-elk/pull/1073#issuecomment-1247009319) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+3. 💬 Commented on [#1076](https://github.com/chaoss/grimoirelab-elk/pull/1076#issuecomment-1247006033) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+4. 💬 Commented on [#1](https://github.com/Bahmni/crater-atomfeed/pull/1#issuecomment-1245498591) in [Bahmni/crater-atomfeed](https://github.com/Bahmni/crater-atomfeed)
+5. 🎉 Merged PR [#22](https://github.com/vchrombie/blog/pull/22) in [vchrombie/blog](https://github.com/vchrombie/blog)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
