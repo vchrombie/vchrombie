@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#804](https://github.com/chaoss/grimoirelab-perceval/pull/804#issuecomment-1284112321) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-2. 💬 Commented on [#51](https://github.com/chaoss/grimoirelab-toolkit/pull/51#issuecomment-1284104925) in [chaoss/grimoirelab-toolkit](https://github.com/chaoss/grimoirelab-toolkit)
-3. 💬 Commented on [#51](https://github.com/chaoss/grimoirelab-toolkit/pull/51#issuecomment-1284090000) in [chaoss/grimoirelab-toolkit](https://github.com/chaoss/grimoirelab-toolkit)
-4. ❌ Closed PR [#50](https://github.com/chaoss/grimoirelab-toolkit/pull/50) in [chaoss/grimoirelab-toolkit](https://github.com/chaoss/grimoirelab-toolkit)
-5. 💬 Commented on [#50](https://github.com/chaoss/grimoirelab-toolkit/pull/50#issuecomment-1284087963) in [chaoss/grimoirelab-toolkit](https://github.com/chaoss/grimoirelab-toolkit)
+1. 💬 Commented on [#804](https://github.com/chaoss/grimoirelab-perceval/pull/804#issuecomment-1284445600) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+2. 💬 Commented on [#804](https://github.com/chaoss/grimoirelab-perceval/pull/804#issuecomment-1284112321) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+3. 💬 Commented on [#51](https://github.com/chaoss/grimoirelab-toolkit/pull/51#issuecomment-1284104925) in [chaoss/grimoirelab-toolkit](https://github.com/chaoss/grimoirelab-toolkit)
+4. 💬 Commented on [#51](https://github.com/chaoss/grimoirelab-toolkit/pull/51#issuecomment-1284090000) in [chaoss/grimoirelab-toolkit](https://github.com/chaoss/grimoirelab-toolkit)
+5. ❌ Closed PR [#50](https://github.com/chaoss/grimoirelab-toolkit/pull/50) in [chaoss/grimoirelab-toolkit](https://github.com/chaoss/grimoirelab-toolkit)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
