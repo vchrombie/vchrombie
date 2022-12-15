@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#219](https://github.com/chaoss/grimoirelab-tutorial/pull/219) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-2. 👍 Approved [#219](https://github.com/chaoss/grimoirelab-tutorial/pull/219#pullrequestreview-1217805300) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-3. 💬 Commented on [#219](https://github.com/chaoss/grimoirelab-tutorial/pull/219#issuecomment-1351730443) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-4. 💬 Commented on [#219](https://github.com/chaoss/grimoirelab-tutorial/pull/219#issuecomment-1351564140) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
-5. 💬 Commented on [#802](https://github.com/chaoss/grimoirelab-perceval/issues/802#issuecomment-1332795531) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+1. 📔 Created new repository [vchrombie/link-test](https://github.com/vchrombie/link-test)
+2. ❗️ Opened issue [#1](https://github.com/vchrombie/links/issues/1) in [vchrombie/links](https://github.com/vchrombie/links)
+3. 🔱 Forked [vchrombie/links](https://github.com/vchrombie/links) from [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener)
+4. 🎉 Merged PR [#219](https://github.com/chaoss/grimoirelab-tutorial/pull/219) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+5. 👍 Approved [#219](https://github.com/chaoss/grimoirelab-tutorial/pull/219#pullrequestreview-1217805300) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
