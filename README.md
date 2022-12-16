@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#5](https://github.com/vchrombie/links/issues/5) in [vchrombie/links](https://github.com/vchrombie/links)
-2. ✔️ Closed issue [#1](https://github.com/vchrombie/links/issues/1) in [vchrombie/links](https://github.com/vchrombie/links)
-3. ✔️ Closed issue [#2](https://github.com/vchrombie/links/issues/2) in [vchrombie/links](https://github.com/vchrombie/links)
-4. ✔️ Closed issue [#3](https://github.com/vchrombie/links/issues/3) in [vchrombie/links](https://github.com/vchrombie/links)
-5. ❗️ Opened issue [#4](https://github.com/vchrombie/links/issues/4) in [vchrombie/links](https://github.com/vchrombie/links)
+1. 💬 Commented on [#1](https://github.com/vchrombie/links/issues/1#issuecomment-1354096039) in [vchrombie/links](https://github.com/vchrombie/links)
+2. ❗️ Opened issue [#7](https://github.com/vchrombie/links/issues/7) in [vchrombie/links](https://github.com/vchrombie/links)
+3. ❗️ Opened issue [#6](https://github.com/vchrombie/links/issues/6) in [vchrombie/links](https://github.com/vchrombie/links)
+4. ❗️ Opened issue [#5](https://github.com/vchrombie/links/issues/5) in [vchrombie/links](https://github.com/vchrombie/links)
+5. ✔️ Closed issue [#1](https://github.com/vchrombie/links/issues/1) in [vchrombie/links](https://github.com/vchrombie/links)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
