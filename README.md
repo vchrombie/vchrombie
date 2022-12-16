@@ -13,11 +13,11 @@ I'm Venu. I love building tools that make boring tasks easy.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2](https://github.com/vchrombie/links/issues/2) in [vchrombie/links](https://github.com/vchrombie/links)
-2. 📔 Created new repository [vchrombie/link-test](https://github.com/vchrombie/link-test)
-3. ❗️ Opened issue [#1](https://github.com/vchrombie/links/issues/1) in [vchrombie/links](https://github.com/vchrombie/links)
-4. 🔱 Forked [vchrombie/links](https://github.com/vchrombie/links) from [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener)
-5. 🎉 Merged PR [#219](https://github.com/chaoss/grimoirelab-tutorial/pull/219) in [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+1. ❗️ Opened issue [#3](https://github.com/vchrombie/tmp/issues/3) in [vchrombie/tmp](https://github.com/vchrombie/tmp)
+2. ❗️ Opened issue [#2](https://github.com/vchrombie/tmp/issues/2) in [vchrombie/tmp](https://github.com/vchrombie/tmp)
+3. ❗️ Opened issue [#1](https://github.com/vchrombie/tmp/issues/1) in [vchrombie/tmp](https://github.com/vchrombie/tmp)
+4. 📔 Created new repository [vchrombie/tmp](https://github.com/vchrombie/tmp)
+5. ❗️ Opened issue [#3](https://github.com/vchrombie/links/issues/3) in [vchrombie/links](https://github.com/vchrombie/links)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
