@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-I'm Venu. I love building tools that make boring tasks easy.
-
-📊 I’m currently working on [GrimoireLab and it's components](https://chaoss.github.io/grimoirelab).
-
-📫 How to reach me: I live on the internet [@vchrombie](https://www.google.co.in/search?q=vchrombie).
-
-😄 Fun fact: Snorlax's typical day consists of nothing more than :doughnut: eating and :zzz: sleeping.
+I'm Venu, MS CS Student at New York University.
 
 ---
 
