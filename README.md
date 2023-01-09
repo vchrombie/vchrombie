@@ -7,11 +7,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1](https://github.com/vchrombie/links/issues/1#issuecomment-1354096039) in [vchrombie/links](https://github.com/vchrombie/links)
-2. ❗️ Opened issue [#7](https://github.com/vchrombie/links/issues/7) in [vchrombie/links](https://github.com/vchrombie/links)
-3. ❗️ Opened issue [#6](https://github.com/vchrombie/links/issues/6) in [vchrombie/links](https://github.com/vchrombie/links)
-4. ❗️ Opened issue [#5](https://github.com/vchrombie/links/issues/5) in [vchrombie/links](https://github.com/vchrombie/links)
-5. ✔️ Closed issue [#1](https://github.com/vchrombie/links/issues/1) in [vchrombie/links](https://github.com/vchrombie/links)
+1. 📔 Created new repository [snitch3s/snitch3s.github.io](https://github.com/snitch3s/snitch3s.github.io)
+2. 🔱 Forked [vchrombie/grimoirelab.github.io](https://github.com/vchrombie/grimoirelab.github.io) from [grimoirelab/grimoirelab.github.io](https://github.com/grimoirelab/grimoirelab.github.io)
+3. 💬 Commented on [#1](https://github.com/vchrombie/links/issues/1#issuecomment-1354096039) in [vchrombie/links](https://github.com/vchrombie/links)
+4. ❗️ Opened issue [#7](https://github.com/vchrombie/links/issues/7) in [vchrombie/links](https://github.com/vchrombie/links)
+5. ❗️ Opened issue [#6](https://github.com/vchrombie/links/issues/6) in [vchrombie/links](https://github.com/vchrombie/links)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
