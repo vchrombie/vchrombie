@@ -7,11 +7,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [vchrombie/portfolio](https://github.com/vchrombie/portfolio)
-2. 📔 Created new repository [vchrombie/redirect-notion-portfolio](https://github.com/vchrombie/redirect-notion-portfolio)
-3. 📔 Created new repository [snitch3s/snitch3s.github.io](https://github.com/snitch3s/snitch3s.github.io)
-4. 🔱 Forked [vchrombie/grimoirelab.github.io](https://github.com/vchrombie/grimoirelab.github.io) from [grimoirelab/grimoirelab.github.io](https://github.com/grimoirelab/grimoirelab.github.io)
-5. 💬 Commented on [#1](https://github.com/vchrombie/links/issues/1#issuecomment-1354096039) in [vchrombie/links](https://github.com/vchrombie/links)
+1. 💪 Opened PR [#582](https://github.com/chaoss/grimoirelab-sirmordred/pull/582) in [chaoss/grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)
+2. 📔 Created new repository [vchrombie/portfolio](https://github.com/vchrombie/portfolio)
+3. 📔 Created new repository [vchrombie/redirect-notion-portfolio](https://github.com/vchrombie/redirect-notion-portfolio)
+4. 📔 Created new repository [snitch3s/snitch3s.github.io](https://github.com/snitch3s/snitch3s.github.io)
+5. 🔱 Forked [vchrombie/grimoirelab.github.io](https://github.com/vchrombie/grimoirelab.github.io) from [grimoirelab/grimoirelab.github.io](https://github.com/grimoirelab/grimoirelab.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
