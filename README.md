@@ -7,11 +7,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#46](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/46) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-2. ✔️ Closed issue [#38](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/38) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-3. ✔️ Closed issue [#40](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/40) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-4. ✔️ Closed issue [#45](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/45) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-5. 📔 Created new repository [vchrombie/swe1-app](https://github.com/vchrombie/swe1-app)
+1. 💬 Commented on [#39](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/39#issuecomment-1449074192) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+2. 💬 Commented on [#44](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/44#issuecomment-1449071718) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+3. ✔️ Closed issue [#43](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/43) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+4. 💬 Commented on [#43](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/43#issuecomment-1449071201) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+5. ✔️ Closed issue [#41](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/41) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
