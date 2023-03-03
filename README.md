@@ -7,11 +7,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#51](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/51) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-2. 👍 Approved [#51](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/51#pullrequestreview-1322729703) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-3. 📔 Created new repository [vchrombie/blog](https://github.com/vchrombie/blog)
-4. 🔱 Forked [vchrombie/ultraviolet](https://github.com/vchrombie/ultraviolet) from [nyudlts/ultraviolet](https://github.com/nyudlts/ultraviolet)
-5. 💬 Commented on [#39](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/39#issuecomment-1449074192) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+1. 💪 Opened PR [#52](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/52) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+2. 🎉 Merged PR [#51](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/51) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+3. 👍 Approved [#51](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/51#pullrequestreview-1322729703) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+4. 📔 Created new repository [vchrombie/blog](https://github.com/vchrombie/blog)
+5. 🔱 Forked [vchrombie/ultraviolet](https://github.com/vchrombie/ultraviolet) from [nyudlts/ultraviolet](https://github.com/nyudlts/ultraviolet)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
