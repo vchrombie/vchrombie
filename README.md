@@ -7,11 +7,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#52](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/52) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-2. 🎉 Merged PR [#51](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/51) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-3. 👍 Approved [#51](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/51#pullrequestreview-1322729703) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-4. 📔 Created new repository [vchrombie/blog](https://github.com/vchrombie/blog)
-5. 🔱 Forked [vchrombie/ultraviolet](https://github.com/vchrombie/ultraviolet) from [nyudlts/ultraviolet](https://github.com/nyudlts/ultraviolet)
+1. 💪 Opened PR [#2](https://github.com/vchrombie/swe1-app/pull/2) in [vchrombie/swe1-app](https://github.com/vchrombie/swe1-app)
+2. 💪 Opened PR [#1](https://github.com/vchrombie/swe1-app/pull/1) in [vchrombie/swe1-app](https://github.com/vchrombie/swe1-app)
+3. 💪 Opened PR [#52](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/52) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+4. 🎉 Merged PR [#51](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/51) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+5. 👍 Approved [#51](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/51#pullrequestreview-1322729703) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
