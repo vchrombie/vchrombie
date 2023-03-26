@@ -9,11 +9,11 @@ Currently, I am working as a DevOps Engineer for the [FloodNet NYC](https://www.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#76](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/76) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-2. 💬 Commented on [#75](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/75#issuecomment-1484164067) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-3. 🔱 Forked [vchrombie/floodnet-nodered](https://github.com/vchrombie/floodnet-nodered) from [floodnet-nyc/floodnet-nodered](https://github.com/floodnet-nyc/floodnet-nodered)
-4. 📔 Created new repository [vchrombie/people-you-might-know](https://github.com/vchrombie/people-you-might-know)
-5. 💬 Commented on [#73](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/73#issuecomment-1482076830) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+1. 🎉 Merged PR [#75](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/75) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+2. 👍 Approved [#75](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/75#pullrequestreview-1358103414) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+3. 💪 Opened PR [#76](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/76) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+4. 💬 Commented on [#75](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/75#issuecomment-1484164067) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+5. 🔱 Forked [vchrombie/floodnet-nodered](https://github.com/vchrombie/floodnet-nodered) from [floodnet-nyc/floodnet-nodered](https://github.com/floodnet-nyc/floodnet-nodered)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
