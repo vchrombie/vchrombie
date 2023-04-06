@@ -9,10 +9,10 @@ Currently, I am working as a DevOps Engineer for the [FloodNet NYC](https://www.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#27](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/27#issuecomment-1497774536) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-2. 💬 Commented on [#26](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/26#issuecomment-1497774613) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-3. ✔️ Closed issue [#23](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/23) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-4. ✔️ Closed issue [#24](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/24) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+1. ❗️ Opened issue [#104](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/104) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+2. 💬 Commented on [#27](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/27#issuecomment-1497774536) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+3. 💬 Commented on [#26](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/26#issuecomment-1497774613) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+4. ✔️ Closed issue [#23](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/23) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
 5. ✔️ Closed issue [#24](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/24) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
 <!--RECENT_ACTIVITY:end-->
 
