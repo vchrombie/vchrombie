@@ -9,11 +9,11 @@ Currently, I am working as a DevOps Engineer for the [FloodNet NYC](https://www.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [vchrombie/backup-scripts](https://github.com/vchrombie/backup-scripts)
-2. 📔 Created new repository [vchrombie/floodnet-nodered-backup](https://github.com/vchrombie/floodnet-nodered-backup)
-3. ❗️ Opened issue [#104](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/104) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-4. 💬 Commented on [#27](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/27#issuecomment-1497774536) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-5. 💬 Commented on [#26](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/26#issuecomment-1497774613) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+1. 💪 Opened PR [#105](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/105) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+2. 📔 Created new repository [vchrombie/backup-scripts](https://github.com/vchrombie/backup-scripts)
+3. 📔 Created new repository [vchrombie/floodnet-nodered-backup](https://github.com/vchrombie/floodnet-nodered-backup)
+4. ❗️ Opened issue [#104](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/104) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+5. 💬 Commented on [#27](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/27#issuecomment-1497774536) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
