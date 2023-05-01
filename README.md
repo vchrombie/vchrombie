@@ -9,11 +9,11 @@ Currently, I am working as a DevOps Engineer for the [FloodNet NYC](https://www.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#171](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/171#issuecomment-1529271258) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-2. 📔 Created new repository [vchrombie/nyc-taxi-demand-prediction](https://github.com/vchrombie/nyc-taxi-demand-prediction)
-3. ⭐ Starred [vchrombie/nyc-yellow-taxi-demand-analysis](https://github.com/vchrombie/nyc-yellow-taxi-demand-analysis)
-4. 📔 Created new repository [vchrombie/nyc-yellow-taxi-demand-analysis](https://github.com/vchrombie/nyc-yellow-taxi-demand-analysis)
-5. ✔️ Closed issue [#802](https://github.com/chaoss/grimoirelab-perceval/issues/802) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+1. 📔 Created new repository [vchrombie/floonet-grafana](https://github.com/vchrombie/floonet-grafana)
+2. 💬 Commented on [#171](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/171#issuecomment-1529271258) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+3. 📔 Created new repository [vchrombie/nyc-taxi-demand-prediction](https://github.com/vchrombie/nyc-taxi-demand-prediction)
+4. ⭐ Starred [vchrombie/nyc-yellow-taxi-demand-analysis](https://github.com/vchrombie/nyc-yellow-taxi-demand-analysis)
+5. 📔 Created new repository [vchrombie/nyc-yellow-taxi-demand-analysis](https://github.com/vchrombie/nyc-yellow-taxi-demand-analysis)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
