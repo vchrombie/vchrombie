@@ -9,11 +9,11 @@ Currently, I am working as a DevOps Engineer for the [FloodNet NYC](https://www.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#172](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/172) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-2. 💬 Commented on [#172](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/172#issuecomment-1530073745) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-3. 💪 Opened PR [#173](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/173) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-4. 🔴 Requested 1 change(s) for [#172](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/172#pullrequestreview-1407881060) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-5. 💬 Commented on [#172](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/172#discussion_r1181754936) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+1. ✔️ Closed issue [#168](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/168) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+2. 💬 Commented on [#171](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/171#issuecomment-1530162468) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+3. ❌ Closed PR [#172](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/172) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+4. 💬 Commented on [#172](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/172#issuecomment-1530073745) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+5. 💪 Opened PR [#173](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/173) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
