@@ -9,11 +9,11 @@ Currently, I am working as a DevOps Engineer for the [FloodNet NYC](https://www.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [moshe/elasticsearch_loader](https://github.com/moshe/elasticsearch_loader)
-2. 🤝 Became collaborator on [vchrombie/nyc-taxi-demand-prediction](https://github.com/vchrombie/nyc-taxi-demand-prediction)
-3. ✔️ Closed issue [#175](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/175) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-4. 💬 Commented on [#175](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/175#issuecomment-1535508657) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-5. 💪 Opened PR [#178](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/pull/178) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+1. 🤝 Became collaborator on [vchrombie/nyc-taxi-demand-prediction](https://github.com/vchrombie/nyc-taxi-demand-prediction)
+2. ⭐ Starred [moshe/elasticsearch_loader](https://github.com/moshe/elasticsearch_loader)
+3. 🤝 Became collaborator on [vchrombie/nyc-taxi-demand-prediction](https://github.com/vchrombie/nyc-taxi-demand-prediction)
+4. ✔️ Closed issue [#175](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/175) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+5. 💬 Commented on [#175](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/175#issuecomment-1535508657) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
