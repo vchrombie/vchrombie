@@ -10,10 +10,10 @@ Currently, I am working as a DevOps Engineer for the [FloodNet NYC](https://www.
 
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [vchrombie/floodnet-playground](https://github.com/vchrombie/floodnet-playground)
-2. 🤝 Became collaborator on [vchrombie/nyc-taxi-demand-prediction](https://github.com/vchrombie/nyc-taxi-demand-prediction)
-3. ⭐ Starred [moshe/elasticsearch_loader](https://github.com/moshe/elasticsearch_loader)
-4. 🤝 Became collaborator on [vchrombie/nyc-taxi-demand-prediction](https://github.com/vchrombie/nyc-taxi-demand-prediction)
-5. ✔️ Closed issue [#175](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/175) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+2. 📔 Created new repository [vchrombie/floodnet-playground](https://github.com/vchrombie/floodnet-playground)
+3. 🤝 Became collaborator on [vchrombie/nyc-taxi-demand-prediction](https://github.com/vchrombie/nyc-taxi-demand-prediction)
+4. ⭐ Starred [moshe/elasticsearch_loader](https://github.com/moshe/elasticsearch_loader)
+5. 🤝 Became collaborator on [vchrombie/nyc-taxi-demand-prediction](https://github.com/vchrombie/nyc-taxi-demand-prediction)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
