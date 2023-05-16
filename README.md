@@ -9,11 +9,11 @@ Currently, I am working as a DevOps Engineer for the [FloodNet NYC](https://www.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [vchrombie/floodnet-playground](https://github.com/vchrombie/floodnet-playground)
+1. 📔 Created new repository [vchrombie/CS-GY-9223-DSD](https://github.com/vchrombie/CS-GY-9223-DSD)
 2. 📔 Created new repository [vchrombie/floodnet-playground](https://github.com/vchrombie/floodnet-playground)
-3. 🤝 Became collaborator on [vchrombie/nyc-taxi-demand-prediction](https://github.com/vchrombie/nyc-taxi-demand-prediction)
-4. ⭐ Starred [moshe/elasticsearch_loader](https://github.com/moshe/elasticsearch_loader)
-5. 🤝 Became collaborator on [vchrombie/nyc-taxi-demand-prediction](https://github.com/vchrombie/nyc-taxi-demand-prediction)
+3. 📔 Created new repository [vchrombie/floodnet-playground](https://github.com/vchrombie/floodnet-playground)
+4. 🤝 Became collaborator on [vchrombie/nyc-taxi-demand-prediction](https://github.com/vchrombie/nyc-taxi-demand-prediction)
+5. ⭐ Starred [moshe/elasticsearch_loader](https://github.com/moshe/elasticsearch_loader)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
