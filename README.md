@@ -9,11 +9,11 @@ Currently, I am working as a DevOps Engineer for the [FloodNet NYC](https://www.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [vchrombie/machamp](https://github.com/vchrombie/machamp)
-2. 📔 Created new repository [vchrombie/opensearch-loader](https://github.com/vchrombie/opensearch-loader)
-3. 🔱 Forked [vchrombie/wg-dei](https://github.com/vchrombie/wg-dei) from [chaoss/wg-dei](https://github.com/chaoss/wg-dei)
-4. 🔱 Forked [vchrombie/wg-metrics-models](https://github.com/vchrombie/wg-metrics-models) from [chaoss/wg-metrics-models](https://github.com/chaoss/wg-metrics-models)
-5. 📔 Created new repository [vchrombie/CS-GY-6033-DAA1](https://github.com/vchrombie/CS-GY-6033-DAA1)
+1. 📔 Created new repository [vchrombie/python-poetry-project](https://github.com/vchrombie/python-poetry-project)
+2. 📔 Created new repository [vchrombie/python-poetry-project](https://github.com/vchrombie/python-poetry-project)
+3. 📔 Created new repository [vchrombie/machamp](https://github.com/vchrombie/machamp)
+4. 📔 Created new repository [vchrombie/opensearch-loader](https://github.com/vchrombie/opensearch-loader)
+5. 🔱 Forked [vchrombie/wg-dei](https://github.com/vchrombie/wg-dei) from [chaoss/wg-dei](https://github.com/chaoss/wg-dei)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
