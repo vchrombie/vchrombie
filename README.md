@@ -9,11 +9,11 @@ Currently, I am working as a DevOps Engineer for the [FloodNet NYC](https://www.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [vchrombie/python-poetry-project](https://github.com/vchrombie/python-poetry-project)
-2. 📔 Created new repository [vchrombie/python-poetry-project](https://github.com/vchrombie/python-poetry-project)
-3. 📔 Created new repository [vchrombie/machamp](https://github.com/vchrombie/machamp)
-4. 📔 Created new repository [vchrombie/opensearch-loader](https://github.com/vchrombie/opensearch-loader)
-5. 🔱 Forked [vchrombie/wg-dei](https://github.com/vchrombie/wg-dei) from [chaoss/wg-dei](https://github.com/chaoss/wg-dei)
+1. ❌ Closed PR [#2](https://github.com/vchrombie/swe1-app/pull/2) in [vchrombie/swe1-app](https://github.com/vchrombie/swe1-app)
+2. ❌ Closed PR [#1](https://github.com/vchrombie/swe1-app/pull/1) in [vchrombie/swe1-app](https://github.com/vchrombie/swe1-app)
+3. ❌ Closed PR [#3](https://github.com/vchrombie/swe1-app/pull/3) in [vchrombie/swe1-app](https://github.com/vchrombie/swe1-app)
+4. 📔 Created new repository [vchrombie/python-poetry-project](https://github.com/vchrombie/python-poetry-project)
+5. 📔 Created new repository [vchrombie/python-poetry-project](https://github.com/vchrombie/python-poetry-project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
