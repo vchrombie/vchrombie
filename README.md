@@ -2,7 +2,7 @@
 
 I'm Venu, MS CS Student at New York University.
 
-Currently, I am working as a DevOps Engineer for the [FloodNet NYC](https://www.floodnet.nyc/) project in collaboration with [NYU's Center for Urban Science and Progress (CUSP)](https://cusp.nyu.edu/), where I am utilizing my skills and expertise in software development and system administration to develop resilient infrastructure for flood monitoring and prediction.
+Currently, I am working as a Software Engineer for the [FloodNet NYC](https://www.floodnet.nyc/) project in collaboration with [NYU's Center for Urban Science and Progress (CUSP)](https://cusp.nyu.edu/), where I am utilizing my skills and expertise in software development and system administration to develop resilient infrastructure for flood monitoring and prediction.
 
 ---
 
