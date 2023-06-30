@@ -9,11 +9,11 @@ Currently, I am working as a Software Engineer for the [FloodNet NYC](https://ww
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#107](https://github.com/Bahmni/bahmni-package/pull/107) in [Bahmni/bahmni-package](https://github.com/Bahmni/bahmni-package)
-2. 💬 Commented on [#107](https://github.com/Bahmni/bahmni-package/pull/107#issuecomment-1599383388) in [Bahmni/bahmni-package](https://github.com/Bahmni/bahmni-package)
-3. ❌ Closed PR [#2](https://github.com/vchrombie/swe1-app/pull/2) in [vchrombie/swe1-app](https://github.com/vchrombie/swe1-app)
-4. ❌ Closed PR [#1](https://github.com/vchrombie/swe1-app/pull/1) in [vchrombie/swe1-app](https://github.com/vchrombie/swe1-app)
-5. ❌ Closed PR [#3](https://github.com/vchrombie/swe1-app/pull/3) in [vchrombie/swe1-app](https://github.com/vchrombie/swe1-app)
+1. 💪 Opened PR [#602](https://github.com/chaoss/grimoirelab/pull/602) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+2. ❌ Closed PR [#107](https://github.com/Bahmni/bahmni-package/pull/107) in [Bahmni/bahmni-package](https://github.com/Bahmni/bahmni-package)
+3. 💬 Commented on [#107](https://github.com/Bahmni/bahmni-package/pull/107#issuecomment-1599383388) in [Bahmni/bahmni-package](https://github.com/Bahmni/bahmni-package)
+4. ❌ Closed PR [#2](https://github.com/vchrombie/swe1-app/pull/2) in [vchrombie/swe1-app](https://github.com/vchrombie/swe1-app)
+5. ❌ Closed PR [#1](https://github.com/vchrombie/swe1-app/pull/1) in [vchrombie/swe1-app](https://github.com/vchrombie/swe1-app)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
