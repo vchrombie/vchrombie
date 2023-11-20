@@ -7,11 +7,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#196](https://github.com/SeattleTestbed/seattlelib_v2/pull/196#pullrequestreview-1735667948) in [SeattleTestbed/seattlelib_v2](https://github.com/SeattleTestbed/seattlelib_v2)
-2. 📔 Created new repository [vchrombie/todo-trello](https://github.com/vchrombie/todo-trello)
-3. 📔 Created new repository [vchrombie/pytrello2](https://github.com/vchrombie/pytrello2)
+1. 💪 Opened PR [#86](https://github.com/SeattleTestbed/docs/pull/86) in [SeattleTestbed/docs](https://github.com/SeattleTestbed/docs)
+2. 👍 Approved [#196](https://github.com/SeattleTestbed/seattlelib_v2/pull/196#pullrequestreview-1735667948) in [SeattleTestbed/seattlelib_v2](https://github.com/SeattleTestbed/seattlelib_v2)
+3. 📔 Created new repository [vchrombie/todo-trello](https://github.com/vchrombie/todo-trello)
 4. 📔 Created new repository [vchrombie/pytrello2](https://github.com/vchrombie/pytrello2)
-5. 💬 Commented on [#591](https://github.com/opensearch-project/opensearch-build/issues/591#issuecomment-1787496554) in [opensearch-project/opensearch-build](https://github.com/opensearch-project/opensearch-build)
+5. 📔 Created new repository [vchrombie/pytrello2](https://github.com/vchrombie/pytrello2)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
