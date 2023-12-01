@@ -7,11 +7,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [vchrombie/pytrello](https://github.com/vchrombie/pytrello)
-2. 💬 Commented on [#4245](https://github.com/opensearch-project/opensearch-build/pull/4245#issuecomment-1830457725) in [opensearch-project/opensearch-build](https://github.com/opensearch-project/opensearch-build)
-3. 💪 Opened PR [#4245](https://github.com/opensearch-project/opensearch-build/pull/4245) in [opensearch-project/opensearch-build](https://github.com/opensearch-project/opensearch-build)
-4. 💬 Commented on [#86](https://github.com/SeattleTestbed/docs/pull/86#issuecomment-1828669961) in [SeattleTestbed/docs](https://github.com/SeattleTestbed/docs)
-5. 🔱 Forked [vchrombie/bamnyc](https://github.com/vchrombie/bamnyc) from [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+1. 💪 Opened PR [#1](https://github.com/5-jigglypuff/pytrello2/pull/1) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
+2. 🔱 Forked [vchrombie/todo-trello](https://github.com/vchrombie/todo-trello) from [5-jigglypuff/todo-trello](https://github.com/5-jigglypuff/todo-trello)
+3. 🔱 Forked [vchrombie/pytrello2](https://github.com/vchrombie/pytrello2) from [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
+4. 📔 Created new repository [vchrombie/pytrello](https://github.com/vchrombie/pytrello)
+5. 💬 Commented on [#4245](https://github.com/opensearch-project/opensearch-build/pull/4245#issuecomment-1830457725) in [opensearch-project/opensearch-build](https://github.com/opensearch-project/opensearch-build)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
