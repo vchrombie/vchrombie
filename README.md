@@ -7,11 +7,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [vchrombie/skiff-apps](https://github.com/vchrombie/skiff-apps) from [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps)
-2. 🔱 Forked [vchrombie/cal.com](https://github.com/vchrombie/cal.com) from [calcom/cal.com](https://github.com/calcom/cal.com)
-3. 🔱 Forked [vchrombie/ai-photo-search-columbia-f2018](https://github.com/vchrombie/ai-photo-search-columbia-f2018) from [001000001/ai-photo-search-columbia-f2018](https://github.com/001000001/ai-photo-search-columbia-f2018)
-4. 💪 Opened PR [#1](https://github.com/5-jigglypuff/pytrello2/pull/1) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
-5. 🔱 Forked [vchrombie/todo-trello](https://github.com/vchrombie/todo-trello) from [5-jigglypuff/todo-trello](https://github.com/5-jigglypuff/todo-trello)
+1. 💪 Opened PR [#155](https://github.com/skiff-org/skiff-apps/pull/155) in [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps)
+2. ❌ Closed PR [#154](https://github.com/skiff-org/skiff-apps/pull/154) in [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps)
+3. 💪 Opened PR [#154](https://github.com/skiff-org/skiff-apps/pull/154) in [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps)
+4. 🔱 Forked [vchrombie/skiff-apps](https://github.com/vchrombie/skiff-apps) from [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps)
+5. 🔱 Forked [vchrombie/cal.com](https://github.com/vchrombie/cal.com) from [calcom/cal.com](https://github.com/calcom/cal.com)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
