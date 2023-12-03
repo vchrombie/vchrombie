@@ -7,11 +7,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#155](https://github.com/skiff-org/skiff-apps/pull/155#issuecomment-1837282051) in [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps)
-2. 💬 Commented on [#154](https://github.com/skiff-org/skiff-apps/pull/154#issuecomment-1837269560) in [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps)
-3. 💪 Opened PR [#155](https://github.com/skiff-org/skiff-apps/pull/155) in [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps)
-4. ❌ Closed PR [#154](https://github.com/skiff-org/skiff-apps/pull/154) in [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps)
-5. 💪 Opened PR [#154](https://github.com/skiff-org/skiff-apps/pull/154) in [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps)
+1. 💬 Commented on [#977](https://github.com/crater-invoice/crater/issues/977#issuecomment-1837553546) in [crater-invoice/crater](https://github.com/crater-invoice/crater)
+2. ✔️ Closed issue [#977](https://github.com/crater-invoice/crater/issues/977) in [crater-invoice/crater](https://github.com/crater-invoice/crater)
+3. ✔️ Closed issue [#29](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/29) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+4. ✔️ Closed issue [#28](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/28) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+5. ✔️ Closed issue [#27](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/27) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
