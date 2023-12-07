@@ -7,11 +7,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#9](https://github.com/5-jigglypuff/pytrello2/pull/9) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
-2. 💪 Opened PR [#8](https://github.com/5-jigglypuff/pytrello2/pull/8) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
-3. ❗️ Opened issue [#7](https://github.com/5-jigglypuff/pytrello2/issues/7) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
-4. ❗️ Opened issue [#6](https://github.com/5-jigglypuff/pytrello2/issues/6) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
-5. ❗️ Opened issue [#5](https://github.com/5-jigglypuff/pytrello2/issues/5) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
+1. ❗️ Opened issue [#11](https://github.com/5-jigglypuff/pytrello2/issues/11) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
+2. ❗️ Opened issue [#10](https://github.com/5-jigglypuff/pytrello2/issues/10) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
+3. 💪 Opened PR [#9](https://github.com/5-jigglypuff/pytrello2/pull/9) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
+4. 💪 Opened PR [#8](https://github.com/5-jigglypuff/pytrello2/pull/8) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
+5. ❗️ Opened issue [#7](https://github.com/5-jigglypuff/pytrello2/issues/7) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
