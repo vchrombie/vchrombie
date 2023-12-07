@@ -7,11 +7,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#977](https://github.com/crater-invoice/crater/issues/977#issuecomment-1837553546) in [crater-invoice/crater](https://github.com/crater-invoice/crater)
-2. ✔️ Closed issue [#977](https://github.com/crater-invoice/crater/issues/977) in [crater-invoice/crater](https://github.com/crater-invoice/crater)
-3. ✔️ Closed issue [#29](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/29) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-4. ✔️ Closed issue [#28](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/28) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
-5. ✔️ Closed issue [#27](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5/issues/27) in [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5)
+1. ❗️ Opened issue [#5](https://github.com/5-jigglypuff/pytrello2/issues/5) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
+2. ❗️ Opened issue [#4](https://github.com/5-jigglypuff/pytrello2/issues/4) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
+3. ❗️ Opened issue [#3](https://github.com/5-jigglypuff/pytrello2/issues/3) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
+4. ❗️ Opened issue [#2](https://github.com/5-jigglypuff/pytrello2/issues/2) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
+5. 💬 Commented on [#977](https://github.com/crater-invoice/crater/issues/977#issuecomment-1837553546) in [crater-invoice/crater](https://github.com/crater-invoice/crater)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
