@@ -7,11 +7,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#21](https://github.com/5-jigglypuff/pytrello2/pull/21#issuecomment-1856290144) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
-2. ❗️ Opened issue [#24](https://github.com/5-jigglypuff/pytrello2/issues/24) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
-3. 💪 Opened PR [#23](https://github.com/5-jigglypuff/pytrello2/pull/23) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
-4. 💪 Opened PR [#22](https://github.com/5-jigglypuff/pytrello2/pull/22) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
-5. ✔️ Closed issue [#19](https://github.com/5-jigglypuff/pytrello2/issues/19) in [5-jigglypuff/pytrello2](https://github.com/5-jigglypuff/pytrello2)
+1. 💬 Commented on [#21](https://github.com/pytrello2/pytrello2/pull/21#issuecomment-1857162694) in [pytrello2/pytrello2](https://github.com/pytrello2/pytrello2)
+2. 💬 Commented on [#26](https://github.com/pytrello2/pytrello2/pull/26#discussion_r1427475272) in [pytrello2/pytrello2](https://github.com/pytrello2/pytrello2)
+3. 💬 Commented on [#26](https://github.com/pytrello2/pytrello2/pull/26#discussion_r1427473938) in [pytrello2/pytrello2](https://github.com/pytrello2/pytrello2)
+4. 💬 Commented on [#26](https://github.com/pytrello2/pytrello2/pull/26#discussion_r1427473716) in [pytrello2/pytrello2](https://github.com/pytrello2/pytrello2)
+5. 💬 Commented on [#26](https://github.com/pytrello2/pytrello2/pull/26#discussion_r1427475305) in [pytrello2/pytrello2](https://github.com/pytrello2/pytrello2)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
