@@ -7,11 +7,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#6](https://github.com/pytrello2/todo-trello/pull/6) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
-2. 👍 Approved [#6](https://github.com/pytrello2/todo-trello/pull/6#pullrequestreview-1785288048) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
-3. 💬 Commented on [#3](https://github.com/pytrello2/todo-trello/pull/3#discussion_r1428904195) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
-4. 💬 Commented on [#6](https://github.com/pytrello2/todo-trello/pull/6#issuecomment-1858889351) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
-5. 💬 Commented on [#26](https://github.com/pytrello2/pytrello2/pull/26#issuecomment-1858493316) in [pytrello2/pytrello2](https://github.com/pytrello2/pytrello2)
+1. 💬 Commented on [#7](https://github.com/pytrello2/todo-trello/pull/7#issuecomment-1858942637) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
+2. 💬 Commented on [#29](https://github.com/pytrello2/pytrello2/pull/29#issuecomment-1858940827) in [pytrello2/pytrello2](https://github.com/pytrello2/pytrello2)
+3. 🎉 Merged PR [#6](https://github.com/pytrello2/todo-trello/pull/6) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
+4. 👍 Approved [#6](https://github.com/pytrello2/todo-trello/pull/6#pullrequestreview-1785288048) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
+5. 💬 Commented on [#3](https://github.com/pytrello2/todo-trello/pull/3#discussion_r1428904195) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
