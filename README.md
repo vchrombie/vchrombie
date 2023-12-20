@@ -7,11 +7,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#9](https://github.com/pytrello2/todo-trello/pull/9) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
-2. 👍 Approved [#9](https://github.com/pytrello2/todo-trello/pull/9#pullrequestreview-1790052670) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
-3. 🎉 Merged PR [#8](https://github.com/pytrello2/todo-trello/pull/8) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
-4. 👍 Approved [#8](https://github.com/pytrello2/todo-trello/pull/8#pullrequestreview-1789936172) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
-5. 💬 Commented on [#33](https://github.com/pytrello2/pytrello2/pull/33#discussion_r1432084408) in [pytrello2/pytrello2](https://github.com/pytrello2/pytrello2)
+1. ✌️ Released [0.1.0](https://github.com/pytrello2/pytrello2/releases/tag/0.1.0) in [pytrello2/pytrello2](https://github.com/pytrello2/pytrello2)
+2. 🎉 Merged PR [#9](https://github.com/pytrello2/todo-trello/pull/9) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
+3. 👍 Approved [#9](https://github.com/pytrello2/todo-trello/pull/9#pullrequestreview-1790052670) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
+4. 🎉 Merged PR [#8](https://github.com/pytrello2/todo-trello/pull/8) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
+5. 👍 Approved [#8](https://github.com/pytrello2/todo-trello/pull/8#pullrequestreview-1789936172) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
