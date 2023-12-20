@@ -7,11 +7,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [0.1.0](https://github.com/pytrello2/pytrello2/releases/tag/0.1.0) in [pytrello2/pytrello2](https://github.com/pytrello2/pytrello2)
-2. 🎉 Merged PR [#9](https://github.com/pytrello2/todo-trello/pull/9) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
-3. 👍 Approved [#9](https://github.com/pytrello2/todo-trello/pull/9#pullrequestreview-1790052670) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
-4. 🎉 Merged PR [#8](https://github.com/pytrello2/todo-trello/pull/8) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
-5. 👍 Approved [#8](https://github.com/pytrello2/todo-trello/pull/8#pullrequestreview-1789936172) in [pytrello2/todo-trello](https://github.com/pytrello2/todo-trello)
+1. 💬 Commented on [#32](https://github.com/pytrello2/pytrello2/pull/32#discussion_r1432259090) in [pytrello2/pytrello2](https://github.com/pytrello2/pytrello2)
+2. 💬 Commented on [#32](https://github.com/pytrello2/pytrello2/pull/32#discussion_r1432257639) in [pytrello2/pytrello2](https://github.com/pytrello2/pytrello2)
+3. 💬 Commented on [#32](https://github.com/pytrello2/pytrello2/pull/32#discussion_r1432256279) in [pytrello2/pytrello2](https://github.com/pytrello2/pytrello2)
+4. 💬 Commented on [#32](https://github.com/pytrello2/pytrello2/pull/32#discussion_r1432257695) in [pytrello2/pytrello2](https://github.com/pytrello2/pytrello2)
+5. 🔴 Requested 1 change(s) for [#32](https://github.com/pytrello2/pytrello2/pull/32#pullrequestreview-1790176180) in [pytrello2/pytrello2](https://github.com/pytrello2/pytrello2)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
