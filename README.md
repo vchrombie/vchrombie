@@ -7,11 +7,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template)
-2. ⭐ Starred [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf)
-3. 💬 Commented on [#628](https://github.com/chaoss/grimoirelab/pull/628#discussion_r1473680606) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-4. 💬 Commented on [#602](https://github.com/chaoss/grimoirelab/pull/602#issuecomment-1920299106) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-5. ❌ Closed PR [#602](https://github.com/chaoss/grimoirelab/pull/602) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+1. 💬 Commented on [#43](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/43#issuecomment-1936291262) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+2. 💬 Commented on [#46](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/46#issuecomment-1936291062) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+3. 💬 Commented on [#47](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/47#issuecomment-1936289439) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+4. ⭐ Starred [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template)
+5. ⭐ Starred [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
