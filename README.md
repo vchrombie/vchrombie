@@ -2,6 +2,9 @@
 
 I'm Venu, MS CS Student at New York University.
 
+
+![](https://komarev.com/ghpvc/?username=vchrombie&label=👀)
+
 ---
 
 ### :zap: Recent Activity
