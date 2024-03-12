@@ -10,11 +10,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [vchrombie/espeon-google-suite-tasks](https://github.com/vchrombie/espeon-google-suite-tasks)
-2. 📔 Created new repository [vchrombie/ecl-tool](https://github.com/vchrombie/ecl-tool)
-3. 💬 Commented on [#87](https://github.com/SeattleTestbed/docs/pull/87#issuecomment-1982188220) in [SeattleTestbed/docs](https://github.com/SeattleTestbed/docs)
-4. 📔 Created new repository [vchrombie/CS-GY-9223-SSCS](https://github.com/vchrombie/CS-GY-9223-SSCS)
-5. 💬 Commented on [#3553](https://github.com/opensearch-project/OpenSearch-Dashboards/issues/3553#issuecomment-1949491349) in [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards)
+1. 🤝 Became collaborator on [nyuoss/espeon-google-suite-tasks](https://github.com/nyuoss/espeon-google-suite-tasks)
+2. 📔 Created new repository [vchrombie/espeon-google-suite-tasks](https://github.com/vchrombie/espeon-google-suite-tasks)
+3. 📔 Created new repository [vchrombie/ecl-tool](https://github.com/vchrombie/ecl-tool)
+4. 💬 Commented on [#87](https://github.com/SeattleTestbed/docs/pull/87#issuecomment-1982188220) in [SeattleTestbed/docs](https://github.com/SeattleTestbed/docs)
+5. 📔 Created new repository [vchrombie/CS-GY-9223-SSCS](https://github.com/vchrombie/CS-GY-9223-SSCS)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
