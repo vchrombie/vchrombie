@@ -10,11 +10,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [nyuoss/espeon-google-suite-tasks](https://github.com/nyuoss/espeon-google-suite-tasks)
+1. ⭐ Starred [usebruno/bruno](https://github.com/usebruno/bruno)
 2. 🤝 Became collaborator on [nyuoss/espeon-google-suite-tasks](https://github.com/nyuoss/espeon-google-suite-tasks)
-3. 📔 Created new repository [vchrombie/espeon-google-suite-tasks](https://github.com/vchrombie/espeon-google-suite-tasks)
-4. 📔 Created new repository [vchrombie/ecl-tool](https://github.com/vchrombie/ecl-tool)
-5. 💬 Commented on [#87](https://github.com/SeattleTestbed/docs/pull/87#issuecomment-1982188220) in [SeattleTestbed/docs](https://github.com/SeattleTestbed/docs)
+3. 🤝 Became collaborator on [nyuoss/espeon-google-suite-tasks](https://github.com/nyuoss/espeon-google-suite-tasks)
+4. 📔 Created new repository [vchrombie/espeon-google-suite-tasks](https://github.com/vchrombie/espeon-google-suite-tasks)
+5. 📔 Created new repository [vchrombie/ecl-tool](https://github.com/vchrombie/ecl-tool)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
