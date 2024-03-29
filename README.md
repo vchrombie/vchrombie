@@ -10,11 +10,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)
-2. 📔 Created new repository [vchrombie/LiCC](https://github.com/vchrombie/LiCC)
-3. 🤝 Became collaborator on [nyuoss/Gradescope-API](https://github.com/nyuoss/Gradescope-API)
-4. ⭐ Starred [ossf/scorecard](https://github.com/ossf/scorecard)
-5. ⭐ Starred [usebruno/bruno](https://github.com/usebruno/bruno)
+1. ⭐ Starred [cncf/devstats](https://github.com/cncf/devstats)
+2. ⭐ Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)
+3. 📔 Created new repository [vchrombie/LiCC](https://github.com/vchrombie/LiCC)
+4. 🤝 Became collaborator on [nyuoss/Gradescope-API](https://github.com/nyuoss/Gradescope-API)
+5. ⭐ Starred [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
