@@ -10,11 +10,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gittuf/gittuf](https://github.com/gittuf/gittuf)
-2. ❗️ Opened issue [#8](https://github.com/vchrombie/links/issues/8) in [vchrombie/links](https://github.com/vchrombie/links)
-3. 🔱 Forked [vchrombie/scorecard](https://github.com/vchrombie/scorecard) from [ossf/scorecard](https://github.com/ossf/scorecard)
-4. ⭐ Starred [cncf/devstats](https://github.com/cncf/devstats)
-5. ⭐ Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)
+1. ⭐ Starred [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
+2. ⭐ Starred [gittuf/gittuf](https://github.com/gittuf/gittuf)
+3. ❗️ Opened issue [#8](https://github.com/vchrombie/links/issues/8) in [vchrombie/links](https://github.com/vchrombie/links)
+4. 🔱 Forked [vchrombie/scorecard](https://github.com/vchrombie/scorecard) from [ossf/scorecard](https://github.com/ossf/scorecard)
+5. ⭐ Starred [cncf/devstats](https://github.com/cncf/devstats)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
