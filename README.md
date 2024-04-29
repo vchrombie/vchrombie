@@ -10,11 +10,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Ericsson/secure_coding_one_stop_shop_for_python](https://github.com/Ericsson/secure_coding_one_stop_shop_for_python)
-2. ⭐ Starred [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
-3. ⭐ Starred [gittuf/gittuf](https://github.com/gittuf/gittuf)
-4. ❗️ Opened issue [#8](https://github.com/vchrombie/links/issues/8) in [vchrombie/links](https://github.com/vchrombie/links)
-5. 🔱 Forked [vchrombie/scorecard](https://github.com/vchrombie/scorecard) from [ossf/scorecard](https://github.com/ossf/scorecard)
+1. 🤝 Became collaborator on [nyuoss/espeon-google-suite-tasks](https://github.com/nyuoss/espeon-google-suite-tasks)
+2. ⭐ Starred [Ericsson/secure_coding_one_stop_shop_for_python](https://github.com/Ericsson/secure_coding_one_stop_shop_for_python)
+3. ⭐ Starred [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
+4. ⭐ Starred [gittuf/gittuf](https://github.com/gittuf/gittuf)
+5. ❗️ Opened issue [#8](https://github.com/vchrombie/links/issues/8) in [vchrombie/links](https://github.com/vchrombie/links)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
