@@ -10,11 +10,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [nyuoss/website](https://github.com/nyuoss/website)
-2. 🤝 Became collaborator on [nyuoss/google-suite-task-manager](https://github.com/nyuoss/google-suite-task-manager)
-3. 🤝 Became collaborator on [nyuoss/espeon-google-suite-tasks](https://github.com/nyuoss/espeon-google-suite-tasks)
-4. ⭐ Starred [Ericsson/secure_coding_one_stop_shop_for_python](https://github.com/Ericsson/secure_coding_one_stop_shop_for_python)
-5. ⭐ Starred [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
+1. ❗️ Opened issue [#24](https://github.com/nyuoss/glaceon-google-suite-tasks/issues/24) in [nyuoss/glaceon-google-suite-tasks](https://github.com/nyuoss/glaceon-google-suite-tasks)
+2. 💬 Commented on [#23](https://github.com/nyuoss/glaceon-google-suite-tasks/pull/23#issuecomment-2109243089) in [nyuoss/glaceon-google-suite-tasks](https://github.com/nyuoss/glaceon-google-suite-tasks)
+3. 📔 Created new repository [nyuoss/website](https://github.com/nyuoss/website)
+4. 🤝 Became collaborator on [nyuoss/google-suite-task-manager](https://github.com/nyuoss/google-suite-task-manager)
+5. 🤝 Became collaborator on [nyuoss/espeon-google-suite-tasks](https://github.com/nyuoss/espeon-google-suite-tasks)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
