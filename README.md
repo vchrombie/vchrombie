@@ -10,11 +10,11 @@ I'm Venu, MS CS Student at New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#24](https://github.com/nyuoss/glaceon-google-suite-tasks/issues/24#issuecomment-2117804151) in [nyuoss/glaceon-google-suite-tasks](https://github.com/nyuoss/glaceon-google-suite-tasks)
-2. ❗️ Opened issue [#24](https://github.com/nyuoss/glaceon-google-suite-tasks/issues/24) in [nyuoss/glaceon-google-suite-tasks](https://github.com/nyuoss/glaceon-google-suite-tasks)
-3. 💬 Commented on [#23](https://github.com/nyuoss/glaceon-google-suite-tasks/pull/23#issuecomment-2109243089) in [nyuoss/glaceon-google-suite-tasks](https://github.com/nyuoss/glaceon-google-suite-tasks)
-4. 📔 Created new repository [nyuoss/website](https://github.com/nyuoss/website)
-5. 🤝 Became collaborator on [nyuoss/google-suite-task-manager](https://github.com/nyuoss/google-suite-task-manager)
+1. ⭐ Starred [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent)
+2. 💬 Commented on [#24](https://github.com/nyuoss/glaceon-google-suite-tasks/issues/24#issuecomment-2117804151) in [nyuoss/glaceon-google-suite-tasks](https://github.com/nyuoss/glaceon-google-suite-tasks)
+3. ❗️ Opened issue [#24](https://github.com/nyuoss/glaceon-google-suite-tasks/issues/24) in [nyuoss/glaceon-google-suite-tasks](https://github.com/nyuoss/glaceon-google-suite-tasks)
+4. 💬 Commented on [#23](https://github.com/nyuoss/glaceon-google-suite-tasks/pull/23#issuecomment-2109243089) in [nyuoss/glaceon-google-suite-tasks](https://github.com/nyuoss/glaceon-google-suite-tasks)
+5. 📔 Created new repository [nyuoss/website](https://github.com/nyuoss/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
