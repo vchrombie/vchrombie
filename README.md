@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Venu, MS CS Student at New York University.
+I'm Venu, MS CS Graduate from New York University.
 
 
 ![](https://komarev.com/ghpvc/?username=vchrombie&label=👀)
