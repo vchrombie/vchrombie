@@ -10,11 +10,11 @@ I'm Venu, MS CS Graduate from New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#799](https://github.com/chaoss/grimoirelab-perceval/issues/799#issuecomment-2285250817) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-2. 💬 Commented on [#799](https://github.com/chaoss/grimoirelab-perceval/issues/799#issuecomment-2284976917) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-3. 💪 Opened PR [#847](https://github.com/chaoss/grimoirelab-perceval/pull/847) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
-4. ⭐ Starred [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-5. ⭐ Starred [knicklabs/lorem-ipsum.js](https://github.com/knicklabs/lorem-ipsum.js)
+1. 💬 Commented on [#752](https://github.com/chaoss/grimoirelab-perceval/issues/752#issuecomment-2285327283) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+2. 💬 Commented on [#799](https://github.com/chaoss/grimoirelab-perceval/issues/799#issuecomment-2285250817) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+3. 💬 Commented on [#799](https://github.com/chaoss/grimoirelab-perceval/issues/799#issuecomment-2284976917) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+4. 💪 Opened PR [#847](https://github.com/chaoss/grimoirelab-perceval/pull/847) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+5. ⭐ Starred [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
