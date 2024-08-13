@@ -10,11 +10,11 @@ I'm Venu, MS CS Graduate from New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-2. ⭐ Starred [knicklabs/lorem-ipsum.js](https://github.com/knicklabs/lorem-ipsum.js)
-3. 🎉 Merged PR [#58](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/58) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
-4. 🎉 Merged PR [#56](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/56) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
-5. 🎉 Merged PR [#57](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/57) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
+1. 💬 Commented on [#799](https://github.com/chaoss/grimoirelab-perceval/issues/799#issuecomment-2284976917) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+2. 💪 Opened PR [#847](https://github.com/chaoss/grimoirelab-perceval/pull/847) in [chaoss/grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)
+3. ⭐ Starred [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+4. ⭐ Starred [knicklabs/lorem-ipsum.js](https://github.com/knicklabs/lorem-ipsum.js)
+5. 🎉 Merged PR [#58](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/58) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
