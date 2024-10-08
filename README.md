@@ -10,11 +10,11 @@ I'm Venu, MS CS Graduate from New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [vchrombie/awesome-low-level-design](undefined) from [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
-2. 🎉 Merged PR [#62](https://github.com/vchrombie/grimoirelab-perceval-zulip/pull/62) in [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)
-3. 💬 Commented on [#698](https://github.com/chaoss/grimoirelab/issues/698#issuecomment-2351698728) in [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
-4. 💪 Opened PR [#522](https://github.com/TheKevJames/coveralls-python/pull/522) in [TheKevJames/coveralls-python](https://github.com/TheKevJames/coveralls-python)
-5. 💬 Commented on [#1168](https://github.com/chaoss/grimoirelab-elk/pull/1168#issuecomment-2348193591) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+1. ⬆️ Pushed 1 commit(s) to [vchrombie/awesome-low-level-design](https://github.com/vchrombie/awesome-low-level-design)<br>
+2. 🔱 Forked [vchrombie/awesome-low-level-design](undefined) from [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)<br>
+3. ⬆️ Pushed 1 commit(s) to [vchrombie/lincc](https://github.com/vchrombie/lincc)<br>
+4. ⬆️ Pushed 1 commit(s) to [vchrombie/parse-flow-logs](https://github.com/vchrombie/parse-flow-logs)<br>
+5. ⬆️ Pushed 1 commit(s) to [vchrombie/jobdex](https://github.com/vchrombie/jobdex)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
