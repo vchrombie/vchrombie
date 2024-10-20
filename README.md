@@ -10,11 +10,11 @@ I'm Venu, MS CS Graduate from New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [vchrombie/docs](https://github.com/vchrombie/docs)<br>
+1. 💬 Commented on [#864](https://github.com/getcursor/cursor/issues/864#issuecomment-2424066109) in [getcursor/cursor](https://github.com/getcursor/cursor)<br>
 2. ⬆️ Pushed 1 commit(s) to [vchrombie/docs](https://github.com/vchrombie/docs)<br>
-3. ⬆️ Pushed 13 commit(s) to [vchrombie/chaoss.github](https://github.com/vchrombie/chaoss.github)<br>
-4. 💬 Commented on [#1170](https://github.com/chaoss/grimoirelab-elk/pull/1170#issuecomment-2400335639) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)<br>
-5. ⬆️ Pushed 1 commit(s) to [vchrombie/vchrombie](https://github.com/vchrombie/vchrombie)<br>
+3. ⬆️ Pushed 1 commit(s) to [vchrombie/docs](https://github.com/vchrombie/docs)<br>
+4. ⬆️ Pushed 13 commit(s) to [vchrombie/chaoss.github](https://github.com/vchrombie/chaoss.github)<br>
+5. 💬 Commented on [#1170](https://github.com/chaoss/grimoirelab-elk/pull/1170#issuecomment-2400335639) in [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
