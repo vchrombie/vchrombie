@@ -12,8 +12,8 @@ I'm Venu, MS CS Graduate from New York University.
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [vchrombie/receipt-processor-challenge](https://github.com/vchrombie/receipt-processor-challenge)<br>
 2. ⬆️ Pushed 1 commit(s) to [vchrombie/receipt-processor-challenge](https://github.com/vchrombie/receipt-processor-challenge)<br>
-3. ⬆️ Pushed 1 commit(s) to [vchrombie/blog](https://github.com/vchrombie/blog)<br>
-4. ⬆️ Pushed 1 commit(s) to [vchrombie/parse-flow-logs](https://github.com/vchrombie/parse-flow-logs)<br>
+3. ⬆️ Pushed 1 commit(s) to [vchrombie/receipt-processor-challenge](https://github.com/vchrombie/receipt-processor-challenge)<br>
+4. ⬆️ Pushed 1 commit(s) to [vchrombie/receipt-processor-challenge](https://github.com/vchrombie/receipt-processor-challenge)<br>
 5. ⬆️ Pushed 1 commit(s) to [vchrombie/blog](https://github.com/vchrombie/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
