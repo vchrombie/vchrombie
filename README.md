@@ -10,11 +10,11 @@ I'm Venu, MS CS Graduate from New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [vchrombie/blog](https://github.com/vchrombie/blog)<br>
-2. ⬆️ Pushed 1 commit(s) to [vchrombie/parse-flow-logs](https://github.com/vchrombie/parse-flow-logs)<br>
+1. ⬆️ Pushed 1 commit(s) to [vchrombie/receipt-processor-challenge](https://github.com/vchrombie/receipt-processor-challenge)<br>
+2. ⬆️ Pushed 1 commit(s) to [vchrombie/receipt-processor-challenge](https://github.com/vchrombie/receipt-processor-challenge)<br>
 3. ⬆️ Pushed 1 commit(s) to [vchrombie/blog](https://github.com/vchrombie/blog)<br>
-4. ⬆️ Pushed 1 commit(s) to [vchrombie/blog](https://github.com/vchrombie/blog)<br>
-5. 💬 Commented on [#864](https://github.com/getcursor/cursor/issues/864#issuecomment-2424066109) in [getcursor/cursor](https://github.com/getcursor/cursor)<br>
+4. ⬆️ Pushed 1 commit(s) to [vchrombie/parse-flow-logs](https://github.com/vchrombie/parse-flow-logs)<br>
+5. ⬆️ Pushed 1 commit(s) to [vchrombie/blog](https://github.com/vchrombie/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
