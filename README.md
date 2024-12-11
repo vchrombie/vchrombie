@@ -10,11 +10,11 @@ I'm Venu, MS CS Graduate from New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [vchrombie/advent-of-code](https://github.com/vchrombie/advent-of-code)<br>
+1. ⬆️ Pushed 1 commit(s) to [vchrombie/advent-of-code](https://github.com/vchrombie/advent-of-code)<br>
 2. ⬆️ Pushed 1 commit(s) to [vchrombie/advent-of-code](https://github.com/vchrombie/advent-of-code)<br>
-3. ⬆️ Pushed 20 commit(s) to [vchrombie/aoc-2024](https://github.com/vchrombie/aoc-2024)<br>
-4. ⬆️ Pushed 1 commit(s) to [vchrombie/aoc-2024](https://github.com/vchrombie/aoc-2024)<br>
-5. ⬆️ Pushed 1 commit(s) to [vchrombie/aoc-2024](https://github.com/vchrombie/aoc-2024)<br>
+3. ⬆️ Pushed 1 commit(s) to [vchrombie/advent-of-code](https://github.com/vchrombie/advent-of-code)<br>
+4. ⬆️ Pushed 2 commit(s) to [vchrombie/advent-of-code](https://github.com/vchrombie/advent-of-code)<br>
+5. ⬆️ Pushed 1 commit(s) to [vchrombie/advent-of-code](https://github.com/vchrombie/advent-of-code)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
