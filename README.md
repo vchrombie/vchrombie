@@ -10,7 +10,7 @@ I'm Venu, MS CS Graduate from New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [vchrombie/advent-of-code](https://github.com/vchrombie/advent-of-code)<br>
+1. ⭐ Starred [satya1612/Robonato](https://github.com/satya1612/Robonato)<br>
 2. ⬆️ Pushed 1 commit(s) to [vchrombie/advent-of-code](https://github.com/vchrombie/advent-of-code)<br>
 3. ⬆️ Pushed 1 commit(s) to [vchrombie/advent-of-code](https://github.com/vchrombie/advent-of-code)<br>
 4. ⬆️ Pushed 1 commit(s) to [vchrombie/advent-of-code](https://github.com/vchrombie/advent-of-code)<br>
