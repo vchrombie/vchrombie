@@ -10,10 +10,10 @@ I'm Venu, MS CS Graduate from New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [satya1612/Robonato](https://github.com/satya1612/Robonato)<br>
-2. ⬆️ Pushed 1 commit(s) to [vchrombie/dotfiles](https://github.com/vchrombie/dotfiles)<br>
-3. ⬆️ Pushed 1 commit(s) to [vchrombie/receipt-processor-challenge](https://github.com/vchrombie/receipt-processor-challenge)<br>
-4. ⬆️ Pushed 1 commit(s) to [vchrombie/receipt-processor-challenge](https://github.com/vchrombie/receipt-processor-challenge)<br>
+1. ⬆️ Pushed 1 commit(s) to [vchrombie/speedometer-app](https://github.com/vchrombie/speedometer-app)<br>
+2. 📔 Created new repository [vchrombie/speedometer-app](https://github.com/vchrombie/speedometer-app)<br>
+3. ⭐ Starred [satya1612/Robonato](https://github.com/satya1612/Robonato)<br>
+4. ⬆️ Pushed 1 commit(s) to [vchrombie/dotfiles](https://github.com/vchrombie/dotfiles)<br>
 5. ⬆️ Pushed 1 commit(s) to [vchrombie/receipt-processor-challenge](https://github.com/vchrombie/receipt-processor-challenge)<br>
 <!--RECENT_ACTIVITY:end-->
 
