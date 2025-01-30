@@ -10,11 +10,6 @@ I'm Venu, MS CS Graduate from New York University.
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension)<br>
-2. ⭐ Starred [satya1612/Robonato](https://github.com/satya1612/Robonato)<br>
-3. ⬆️ Pushed 1 commit(s) to [vchrombie/dotfiles](https://github.com/vchrombie/dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [vchrombie/receipt-processor-challenge](https://github.com/vchrombie/receipt-processor-challenge)<br>
-5. ⬆️ Pushed 1 commit(s) to [vchrombie/receipt-processor-challenge](https://github.com/vchrombie/receipt-processor-challenge)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
