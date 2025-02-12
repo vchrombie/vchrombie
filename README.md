@@ -9,10 +9,11 @@ I'm Venu, [know more about me](https://vchrombie.github.io/blog/).
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [vchrombie/vchrombie.github.io](https://github.com/vchrombie/vchrombie.github.io)<br>
+1. ⬆️ Pushed 1 commit(s) to [vchrombie/vchrombie](https://github.com/vchrombie/vchrombie)<br>
 2. ⬆️ Pushed 1 commit(s) to [vchrombie/vchrombie.github.io](https://github.com/vchrombie/vchrombie.github.io)<br>
 3. ⬆️ Pushed 1 commit(s) to [vchrombie/vchrombie.github.io](https://github.com/vchrombie/vchrombie.github.io)<br>
 4. ⬆️ Pushed 1 commit(s) to [vchrombie/vchrombie.github.io](https://github.com/vchrombie/vchrombie.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [vchrombie/vchrombie.github.io](https://github.com/vchrombie/vchrombie.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
