@@ -9,7 +9,6 @@ I'm Venu, [know more about me](https://vchrombie.github.io/blog/).
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [vchrombie/vchrombie](https://github.com/vchrombie/vchrombie)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
