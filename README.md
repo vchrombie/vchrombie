@@ -9,6 +9,9 @@ I'm Venu, [know more about me](https://vchrombie.github.io/blog/).
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [vchrombie/drivenets-assignment](https://github.com/vchrombie/drivenets-assignment)<br>
+2. 📔 Created new repository [vchrombie/drivenets-assignment](https://github.com/vchrombie/drivenets-assignment)<br>
+3. 📔 Created new repository [vchrombie/drivenets-assignment](https://github.com/vchrombie/drivenets-assignment)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
