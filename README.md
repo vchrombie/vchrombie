@@ -10,7 +10,6 @@ I'm Venu, [know more about me](https://vchrombie.github.io/blog/).
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [vchrombie/blk](https://github.com/vchrombie/blk)<br>
-2. ⬆️ Pushed 1 commit(s) to [vchrombie/blk](https://github.com/vchrombie/blk)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
