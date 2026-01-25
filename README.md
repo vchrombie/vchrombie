@@ -9,9 +9,9 @@ I'm Venu, [know more about me](https://vchrombie.github.io/blog/).
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#388](undefined) in [github/contributors](https://github.com/github/contributors)<br>
+1. ⬆️ Pushed undefined commit(s) to [vchrombie/cleanowners](https://github.com/vchrombie/cleanowners)<br>
 2. ⬆️ Pushed undefined commit(s) to [vchrombie/contributors](https://github.com/vchrombie/contributors)<br>
-3. ⬆️ Pushed undefined commit(s) to [vchrombie/contributors](https://github.com/vchrombie/contributors)<br>
+3. 💪 Opened PR [#388](undefined) in [github/contributors](https://github.com/github/contributors)<br>
 4. ⬆️ Pushed undefined commit(s) to [vchrombie/contributors](https://github.com/vchrombie/contributors)<br>
 5. ⬆️ Pushed undefined commit(s) to [vchrombie/contributors](https://github.com/vchrombie/contributors)<br>
 <!--RECENT_ACTIVITY:end-->
