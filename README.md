@@ -10,8 +10,8 @@ I'm Venu, [know more about me](https://vchrombie.github.io/blog/).
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [vchrombie/findsoc](https://github.com/vchrombie/findsoc)<br>
-2. 💬 Commented on [#388](https://github.com/github/contributors/pull/388#discussion_r2728170707) in [github/contributors](https://github.com/github/contributors)<br>
-3. ⬆️ Pushed undefined commit(s) to [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)<br>
+2. ⬆️ Pushed undefined commit(s) to [vchrombie/findsoc](https://github.com/vchrombie/findsoc)<br>
+3. 💬 Commented on [#388](https://github.com/github/contributors/pull/388#discussion_r2728170707) in [github/contributors](https://github.com/github/contributors)<br>
 4. ⬆️ Pushed undefined commit(s) to [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)<br>
 5. ⬆️ Pushed undefined commit(s) to [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)<br>
 <!--RECENT_ACTIVITY:end-->
