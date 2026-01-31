@@ -16,6 +16,24 @@ I'm Venu, [know more about me](https://vchrombie.github.io/blog/).
 5. ⬆️ Pushed undefined commit(s) to [vchrombie/grimoirelab-perceval-zulip](https://github.com/vchrombie/grimoirelab-perceval-zulip)<br>
 <!--RECENT_ACTIVITY:end-->
 
+
+### GitHub Contributions Wordle
+Auto-updated monthly.
+
+<!-- wordle-github:start -->
+#### December 2025
+<pre>
+🟩⬛⬛🟩⬛
+⬛🟩⬛⬛🟩
+🟩🟩⬛🟩⬛
+⬛⬛🟩⬛⬛
+🟩⬛🟩🟩⬛
+⬛🟩⬛⬛🟩
+🟩⬛⬛🟩⬛
+</pre>
+<!-- wordle-github:end -->
+
+
 <!--
 **vchrombie/vchrombie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
