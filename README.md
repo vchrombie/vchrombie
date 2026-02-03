@@ -6,8 +6,6 @@ I'm Venu, [know more about me](https://vchrombie.github.io/blog/).
 
 ---
 
-### :octocat: GitHub Contributions Wordle
-
 <!-- wordle-github:start -->
 ### GitHub Contributions Wordle
 #### Jan 2026
