@@ -16,8 +16,11 @@ jobs:
       - uses: actions/checkout@v4
       - uses: vchrombie/wordle-github-contributions@master
         env:
-          TITLE: ":octocat: GitHub Contributions Wordle"
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          TITLE: ":octocat: GitHub Contributions Wordle"
+          SHOW_MONTH: "True"
+          OUTPUT_FILE: README.md
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update Wordle contributions"
